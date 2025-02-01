@@ -1,0 +1,69 @@
+Imie,Nazwisko,wycena_startowa,wycena_po_3_latach,wiek_odejscia,kraj_transferu,klub_sprzedajacy,czy_wrocil_w_3_lata,pozycja
+Bartosz,Szymanski,2000,0,20,Niemcy,Miedz Legnica,1,Napastnik
+Sebastian,Stolecki,250000,200000,22,Holandia,Cracovia,1,Pomocnik Ofensywny
+Mateusz,Lewandowski,450000,200000,21,Wlochy,Pogon Szczecin,1,Pomocnik Defensywny
+Bartlomiej,Zynel,0,175000,16,Austria,Jagiellonia,0,Bramkarz
+Patryk,Wolanski,50000,100000,23,Dania,Widzew Lodz,0,Bramkarz
+Hubert,Adamczyk,0,100000,16,Anglia,Zawisza Bydgoszcz,1,Pomocnik Ofensywny
+Daniel,Dziwniel,600000,200000,22,Szwajcaria,Ruch Chorzow,1,Lewy Obronca
+Michal,Chrapek,1200000,350000,22,Wlochy,Wisla Krakow,1,Srodkowy Pomocnik
+Krystian,Bielik,0,2000000,17,Anglia,Legia Warszawa,0,Pomocnik Defensywny
+Pawel,Dawidowicz,1200000,800000,19,Portugalia,Lechia Gdansk,0,Srodkowy Obronca
+Lukasz,Teodorczyk,2000000,12500000,23,Ukraina,Lech Poznan,0,Napastnik
+Przemyslaw,Placheta,0,50000,17,Niemcy,Polonia Warszawa,1,Lewy Pomocnik
+Michal,Pawlik,50000,75000,20,Norwegia,Jagiellonia,1,Pomocnik Defensywny
+Kamil,Wojtkowski,150000,350000,17,Niemcy,Pogon Szczecin,1,Pomocnik Ofensywny
+Kamil,Grabara,100000,400000,17,Anglia,Ruch Chorzow,0,Bramkarz
+Wojciech,Golla,400000,800000,23,Holandia,Pogon Szczecin,1,Srodkowy Obronca
+Michal,Zyro,2000000,500000,23,Anglia,Legia Warszawa,0,Prawy Pomocnik
+Jakub,Kiwior,0,300000,16,Belgia,GKS Tychy,0,Srodkowy Obronca
+Adam,Chrzanowski,100000,400000,17,Wlochy,Lechia Gdansk,1,Srodkowy Obronca
+Przemyslaw,Macierzynski,100000,0,17,Portugalia,Lechia Gdansk,0,Prawy Pomocnik
+Bartosz,Kapustka,5000000,2500000,19,Anglia,Cracovia,0,Srodkowy Pomocnik
+Mariusz,Stepinski,1500000,4000000,21,Francja,Ruch Chorzow,0,Napastnik
+Bartlomiej,Dragowski,2500000,10000000,18,Wlochy,Jagiellonia,0,Bramkarz
+Karol,Linetty,3200000,15000000,21,Wlochy,Lech Poznan,0,Srodkowy Pomocnik
+Mateusz,Mackowiak,0,100000,16,Niemcy,Pogon Szczecin,1,Lewy Obronca
+Bartlomiej,Urbanski,100000,100000,19,Holandia,Legia Warszawa,1,Srodkowy Pomocnik
+Przemyslaw,Szymanski,350000,350000,23,Wlochy,Wisla Plock,0,Srodkowy Obronca
+Przemyslaw,Bargiel,300000,100000,17,Wlochy,Ruch Chorzow,1,Srodkowy Pomocnik
+Pawel,Jaroszynski,400000,450000,22,Wlochy,Cracovia,0,Lewy Obronca
+Radoslaw,Murawski,650000,1200000,23,Wlochy,Piast Gliwice,0,Pomocnik Defensywny
+Tomasz,Kedziora,1500000,2800000,23,Ukraina,Lech Poznan,0,Prawy Obronca
+Jaroslaw,Jach,2000000,525000,23,Anglia,Zaglebie Lubin,1,Srodkowy Obronca
+Dawid,Kowancki,3500000,3500000,20,Wlochy,Lech Poznan,0,Napastnik
+Jan,Bednarek,500000,15000000,21,Anglia,Lech Poznan,0,Srodkowy Obronca
+Mateusz,Bogusz,0,1500000,17,Anglia,Ruch Chorzow,0,Pomocnik Ofensywny
+Dawid,Kort,300000,150000,23,Grecja,Wisla Krakow,1,Srodkowy Pomocnik
+Kacper,Sadlocha,0,200000,16,Francja,Stal Mielec,1,Lewy Pomocnik
+Michal,Marcjanik,350000,250000,23,Wlochy,Arka Gdynia,1,Srodkowy Obronca
+Lukasz,Bejger,0,750000,16,Anglia,Lech Poznan,1,Srodkowy Obronca
+Damian,Szymanski,1000000,1500000,23,Rosja,Wisla Plock,0,Pomocnik Defensywny
+Przemyslaw,Frankowski,1500000,2000000,23,USA,Jagiellonia,0,Prawy Pomocnik
+Jakub,Piotrowski,300000,700000,20,Belgia,Pogon Szczecin,0,Pomocnik Defensywny
+Filip,Jagiello,750000,2300000,21,Wlochy,Zaglebie Lubin,0,Srodkowy Pomocnik
+Karol,Swiderski,750000,5000000,21,Grecja,Jagiellonia,0,Napastnik
+Sebastian,Walukiewicz,200000,7500000,18,Wlochy,Pogon Szczecin,0,Srodkowy Obronca
+Arkadiusz,Reca,250000,4000000,23,Wlochy,Wisla Plock,0,Lewy Obronca
+Szymon,Zurkowski,4000000,2000000,21,Wlochy,Gornik Zabrze,0,Srodkowy Pomocnik
+Krzysztof,Piatek,900000,15000000,23,Wlochy,Cracovia,0,Napastnik
+Dawid,Kurminowski,200000,500000,20,Slowacja,Lech Poznan,1,Napastnik
+Jakub,Ojrzynski,0,50000,16,Anglia,Legia Warszawa,1,Bramkarz
+Adam,Dzwigala,350000,400000,23,Portugalia,Wisla Plock,0,Srodkowy Obronca
+Konrad,Michalak,750000,1700000,21,Rosja,Lechia Gdansk,0,Prawy Pomocnik
+Patryk,Dziczek,2000000,500000,21,Wlochy,Piast Gliwice,1,Pomocnik Defensywny
+Patryk,Klimala,4000000,4000000,21,Szkocja,Jagiellonia,0,Napastnik
+Adam,Buksa,1000000,7000000,23,USA,Pogon Szczecin,0,Napastnik
+Radoslaw,Majecki,5000000,2500000,20,Francja,Legia Warszawa,0,Bramkarz
+Sebastian,Szymanski,6000000,14000000,20,Rosja,Legia Warszawa,0,Pomocnik Ofensywny
+Kacper,Chorazka,75000,0,21,Cypr,Zaglebie Sosnowiec,0,Bramkarz
+Kacper,Urbanski,200000,600000,16,Wlochy,Lechia Gdansk,0,Srodkowy Pomocnik
+Marcin,Listkowski,400000,300000,22,Wlochy,Pogon Szczecin,0,Lewy Pomocnik
+Bartlomiej,Maliszewski,0,10000,16,Wlochy,Jagiellonia,0,Bramkarz
+Jakub,Labojko,450000,300000,22,Wlochy,Slask Wroclaw,0,Srodkowy Pomocnik
+Przemyslaw,Placheta,675000,1800000,22,Anglia,Slask Wroclaw,0,Lewy Pomocnik
+Robert,Gumny,3500000,3500000,22,Niemcy,Lech Poznan,0,Prawy Obronca
+Kamil,Jozwiak,4000000,2500000,22,Anglia,Lech Poznan,0,Lewy Pomocnik
+Bartosz,Bialek,3000000,3000000,18,Niemcy,Zaglebie Lubin,0,Napastnik
+Michal,Karbownik,6000000,3000000,19,Anglia,Legia Warszawa,0,Lewy Obronca
+Jakub,Moder,3000000,10000000,21,Anglia,Lech Poznan,0,Srodkowy Pomocnik
