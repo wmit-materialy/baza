@@ -1,4 +1,10 @@
 
+[config]
+  markdown_dir = "./md"
+  source_dir = "./src"
+  target_dir = "./pdf"
+  template_md_file = "./template.md"
+
 [[assignment]]
   file = "0ccf618b-9eae-4992-a117-7c910a473bee.jpg"
   kierunek = "IAD"
