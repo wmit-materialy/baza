@@ -5,6 +5,116 @@
   target_dir = "./pdf"
   template_md_file = "./template.md"
 
+[[subject]]
+shortname = "AL"
+name = "Algebra Liniowa"
+semester = 1
+
+[[subject]]
+shortname = "AM1"
+name = "Analiza Matematyczna 1"
+semester = 1
+
+[[subject]]
+shortname = "BHP"
+name = "Bezpieczeństwo i Higiena Pracy"
+semester = 1
+
+[[subject]]
+shortname = "EGA"
+name = "Elementy Geometrii Analitycznej"
+semester = 1
+
+[[subject]]
+shortname = "ELiTM"
+name = "Elementy Logiki i Teorii Mnogości"
+semester = 1
+
+[[subject]]
+shortname = "WdP"
+name = "Wstęp do Programowania"
+semester = 1
+
+[[subject]]
+shortname = "FE"
+name = "Funkcje Elementarne"
+semester = 1
+
+[[subject]]
+shortname = "AM2"
+name = "Analiza Matematyczna 2"
+semester = 2
+
+[[subject]]
+shortname = "AWzZ"
+name = "Algebra Współczesna z Zastosowaniami"
+semester = 2
+
+[[subject]]
+shortname = "MD"
+name = "Matematyka Dyskretna"
+semester = 2
+
+[[subject]]
+shortname = "PO"
+name = "Programowanie Obiektowe"
+semester = 2
+
+[[subject]]
+shortname = "Psychologia"
+name = "Psychologia"
+semester = 2
+
+[[subject]]
+shortname = "PwR"
+name = "Programowanie w języku R"
+semester = 2
+
+[[subject]]
+shortname = "GiS"
+name = "Grafy i Sieci"
+semester = 3
+
+[[subject]]
+shortname = "AiSD"
+name = "Algorytmy i Struktury Danych"
+semester = 3
+
+[[subject]]
+shortname = "BD"
+name = "Bazy Danych"
+semester = 3
+
+[[subject]]
+shortname = "MPiWD"
+name = "Metody Pozyskiwania i Wizualizacji Danych"
+semester = 3
+
+[[subject]]
+shortname = "RP"
+name = "Rachunek Prawdopodobieństwa"
+semester = 3
+
+[[subject]]
+shortname = "RR"
+name = "Równanie Różniczkowe"
+semester = 3
+
+[[subject]]
+shortname = "MN"
+name = "Metody Numeryczne"
+semester = 4
+
+[[subject]]
+shortname = "Ekonometria"
+name = "Ekonometria"
+semester = 4
+
+[[subject]]
+shortname = "SM"
+name = "Statystyka Matematyczna"
+semester = 4
+
 [[assignment]]
   file = "0ccf618b-9eae-4992-a117-7c910a473bee.jpg"
   kierunek = "IAD"
