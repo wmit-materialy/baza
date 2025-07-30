@@ -5,1271 +5,1465 @@
   target_dir = "./pdf"
   template_md_file = "./template.md"
 
-[[subject]]
-shortname = "AL"
-name = "Algebra Liniowa"
-semester = 1
-
-[[subject]]
-shortname = "AM1"
-name = "Analiza Matematyczna 1"
-semester = 1
-
-[[subject]]
-shortname = "BHP"
-name = "Bezpieczeństwo i Higiena Pracy"
-semester = 1
-
-[[subject]]
-shortname = "EGA"
-name = "Elementy Geometrii Analitycznej"
-semester = 1
-
-[[subject]]
-shortname = "ELiTM"
-name = "Elementy Logiki i Teorii Mnogości"
-semester = 1
-
-[[subject]]
-shortname = "WdP"
-name = "Wstęp do Programowania"
-semester = 1
-
-[[subject]]
-shortname = "FE"
-name = "Funkcje Elementarne"
-semester = 1
-
-[[subject]]
-shortname = "AM2"
-name = "Analiza Matematyczna 2"
-semester = 2
-
-[[subject]]
-shortname = "AWzZ"
-name = "Algebra Współczesna z Zastosowaniami"
-semester = 2
-
-[[subject]]
-shortname = "MD"
-name = "Matematyka Dyskretna"
-semester = 2
-
-[[subject]]
-shortname = "PO"
-name = "Programowanie Obiektowe"
-semester = 2
-
-[[subject]]
-shortname = "Psychologia"
-name = "Psychologia"
-semester = 2
-
-[[subject]]
-shortname = "PwR"
-name = "Programowanie w języku R"
-semester = 2
-
-[[subject]]
-shortname = "GiS"
-name = "Grafy i Sieci"
-semester = 3
-
-[[subject]]
-shortname = "AiSD"
-name = "Algorytmy i Struktury Danych"
-semester = 3
-
-[[subject]]
-shortname = "BD"
-name = "Bazy Danych"
-semester = 3
-
-[[subject]]
-shortname = "MPiWD"
-name = "Metody Pozyskiwania i Wizualizacji Danych"
-semester = 3
-
-[[subject]]
-shortname = "RP"
-name = "Rachunek Prawdopodobieństwa"
-semester = 3
-
-[[subject]]
-shortname = "RR"
-name = "Równanie Różniczkowe"
-semester = 3
-
-[[subject]]
-shortname = "MN"
-name = "Metody Numeryczne"
-semester = 4
-
-[[subject]]
-shortname = "Ekonometria"
-name = "Ekonometria"
-semester = 4
-
-[[subject]]
-shortname = "SM"
-name = "Statystyka Matematyczna"
-semester = 4
-
 [[assignment]]
-  file = "0ccf618b-9eae-4992-a117-7c910a473bee.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "AL"
+  subject = "AM2"
   type = "egz1"
+  uuid = "0060c8d7-2fc8-4d76-a920-4f48bde6e18d"
 
 [[assignment]]
-  file = "c5cada24-091b-48ce-800f-df5c3ace671c.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz1"
-
-[[assignment]]
-  file = "37c655d9-edc0-477c-9baf-e1fee3441e95.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz1"
-
-[[assignment]]
-  file = "6910681f-6461-4766-bd3a-495d3e78e6c3.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz1"
-
-[[assignment]]
-  file = "2af74e09-9042-4d1b-840f-5afaa34e65ee.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz2"
-
-[[assignment]]
-  file = "23607a65-c74b-4f17-b854-4e602ad07c4a.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz2"
-
-[[assignment]]
-  file = "0a005f68-180b-4e04-9709-a7131de37ee4.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz2"
-
-[[assignment]]
-  file = "cd8f7d87-dd2f-4eaa-b4c6-1434d1494b21.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz2"
-
-[[assignment]]
-  file = "a0319e49-6a5c-441e-a70b-61eb50e9d2e7.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "egz3"
-
-[[assignment]]
-  file = "10874285-7e15-421f-92ca-2c00bf58f15b.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "kol2"
-
-[[assignment]]
-  file = "2ec287b4-368d-4515-ba98-056ee9d7e183.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "c7a537b8-53ac-4592-8f8f-b1bea6ecc70e.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "5e72419e-c1a3-45ff-bb03-74a298efd06d.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "bd731bda-d980-4da6-bd06-e6d2b3c25ac8.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "f4d55fb2-7c60-4dc1-870e-deec9e75082c.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "64fb486b-53eb-444f-8a80-742a63c5a3b9.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr1"
-
-[[assignment]]
-  file = "104bb1c3-ef29-4dfd-9d69-cc6637ab8c00.jpg"
-  kierunek = "IAD"
-  subject = "AL"
-  type = "spr2"
-
-[[assignment]]
-  file = "2b22eed8-7c1a-44f1-965b-54226133dbe8.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "egz1"
-
-[[assignment]]
-  file = "ae51e715-1238-4e7e-aac3-d4da98d4d356.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "egz1"
-
-[[assignment]]
-  file = "1e4033fa-9c4c-4c5b-aa8d-99d9f429e4b3.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "egz1"
-
-[[assignment]]
-  file = "82a43c8f-12fa-41c7-a5c3-eedc0ddd8a8c.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "egz2"
-
-[[assignment]]
-  file = "7c5987ed-a81d-469c-9af6-0115f2037ca0.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "egz2"
-
-[[assignment]]
-  file = "c875f9a2-ed88-4913-901b-cf611816b0e7.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "de12c334-f75c-46d3-8096-b94834941868.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "a87e9007-0b9d-4e06-aa2b-3a13f97c01c6.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "391f7439-f6e0-4f00-b654-924c50bc99d8.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "304710d1-104f-43b6-ad79-b73a0fd7d8bf.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "ceb8622f-b512-4d94-91a0-383b273b2546.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol1"
-
-[[assignment]]
-  file = "116e8cb6-9ee8-4924-bfbb-344c948c2433.jpg"
+  extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
   type = "kol2"
+  uuid = "00def093-affd-4e62-91ee-80a02e321dc9"
 
 [[assignment]]
-  file = "45066c9d-84ff-4e0d-ab8b-0a5485e245db.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "AM1"
-  type = "kol2"
-
-[[assignment]]
-  file = "27c6533b-f28c-4798-aeb6-1896b8dcb142.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol2"
-
-[[assignment]]
-  file = "00def093-affd-4e62-91ee-80a02e321dc9.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol2"
-
-[[assignment]]
-  file = "b113b0f7-e35f-4623-ba2f-374aa29db255.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol2"
-
-[[assignment]]
-  file = "24412329-a58a-4f59-a01f-3bec542dbc9a.jpg"
-  kierunek = "IAD"
-  subject = "AM1"
-  type = "kol2"
-
-[[assignment]]
-  file = "0060c8d7-2fc8-4d76-a920-4f48bde6e18d.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "egz1"
-
-[[assignment]]
-  file = "cb331e44-0052-4f0b-ac67-1f207b32f646.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "egz1"
-
-[[assignment]]
-  file = "b7ebe724-db35-4e96-94c5-69addd2cba5d.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "egz1"
-
-[[assignment]]
-  file = "405f157d-628d-43a8-bc1b-309cebdc1528.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
+  subject = "MD"
   type = "kol1"
+  uuid = "022b0b64-307c-402c-a498-de35efe2d321"
 
 [[assignment]]
-  file = "f7ed0436-99ba-401c-aed1-0c8fa9a4e192.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol1"
-
-[[assignment]]
-  file = "660800f9-bf57-4fa8-9a7c-674a71f955e8.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol1"
-
-[[assignment]]
-  file = "0e38f0de-bdbe-47f6-8e51-fe01e0fddff0.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol1"
-
-[[assignment]]
-  file = "765ba194-feef-43c4-8319-448a0243ad5b.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol1"
-
-[[assignment]]
-  file = "6c47a80a-1edb-48c6-a105-faafb7520e8c.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol1"
-
-[[assignment]]
-  file = "c571cf89-5eea-4303-86cf-b1616c5d80a1.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol2"
-
-[[assignment]]
-  file = "d4e88326-1125-466d-9b8f-8704e164f206.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol2"
-
-[[assignment]]
-  file = "fa99e303-ff1d-4549-bd62-b6dee45ba014.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol2"
-
-[[assignment]]
-  file = "72006f8a-9ddd-4c77-8505-97fd1923cd06.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol2"
-
-[[assignment]]
-  file = "2e192c9d-3070-4146-a314-1ccb2537f985.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "kol2"
-
-[[assignment]]
-  file = "f36920fa-46a8-43b6-821e-51fc6818a73f.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "uegz"
-
-[[assignment]]
-  file = "9a118c74-a394-4c73-9dc0-049b27035c8a.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "uegz"
-
-[[assignment]]
-  file = "f7655f11-4490-44bb-9477-7d8497a5d06f.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "uegz"
-
-[[assignment]]
-  file = "ac94789d-92cd-4139-bdeb-dd7d86038c76.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "uegz"
-
-[[assignment]]
-  file = "fb926986-b36c-4450-80c4-0905b604c0a6.jpg"
-  kierunek = "IAD"
-  subject = "AM2"
-  type = "uegz"
-
-[[assignment]]
-  file = "79dbc7e4-49e6-42e9-a3c0-9451991c2a86.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "egz1"
-
-[[assignment]]
-  file = "59530e44-3b5c-46bd-b0e5-8cd2c6d448a7.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "egz1"
-
-[[assignment]]
-  file = "17fa8859-ebc3-4081-a03c-6cbd995f659c.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "egz1"
-
-[[assignment]]
-  file = "8eeb2f90-37ec-4bf3-9ed7-c03bd3cb92d0.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "egz2"
-
-[[assignment]]
-  file = "c659951c-74b8-4fcc-8261-53d072599ba8.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol1"
-
-[[assignment]]
-  file = "f057da38-c0ba-4cfb-9356-b86f7e9955cf.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol1"
-
-[[assignment]]
-  file = "9326ec53-2166-4193-8c1f-798a133f4f37.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol1"
-
-[[assignment]]
-  file = "556cb5e5-6c8b-4648-b87c-21c5f4614db9.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol2"
-
-[[assignment]]
-  file = "49a4a494-8ebe-4471-affb-a63fe18301aa.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol2"
-
-[[assignment]]
-  file = "a4152c77-6aad-40cd-b13e-c3f7e1ac129c.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "kol2"
-
-[[assignment]]
-  file = "ed8a124a-f3eb-4884-b9e7-e082828ebe56.jpg"
-  kierunek = "IAD"
-  subject = "AWzZ"
-  type = "spr1"
-
-[[assignment]]
-  file = "71c49e21-187e-4c1b-abe9-d6126cb62452.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-
-[[assignment]]
-  file = "52b4b30c-7eb6-402b-ad7f-f010e340f591.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-
-[[assignment]]
-  file = "bc2c3121-31cd-4844-9a4d-23c53d670c81.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-
-[[assignment]]
-  file = "42adaf92-0bea-431a-88b2-cb35beb61f2f.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-
-[[assignment]]
-  file = "ce7a93fc-03e9-4bc5-910d-3592b878b841.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-
-[[assignment]]
-  file = "acfc38ae-746b-4e59-b957-0fed07234f36.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz2"
-
-[[assignment]]
-  file = "f5d071de-e468-4129-ad7e-3884275a98db.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz2"
-
-[[assignment]]
-  file = "fdef990f-0b66-434b-ba3b-1921abafeaa9.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol1"
-
-[[assignment]]
-  file = "ba172342-7970-4410-b406-c7644b408625.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol1"
-
-[[assignment]]
-  file = "d435d62f-e94d-4265-9759-c12749114192.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol1"
-
-[[assignment]]
-  file = "711c597d-b0a1-4585-b4a2-468ec5c353bd.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol1"
-
-[[assignment]]
-  file = "e0d0364f-f8dc-4f6d-ab70-d159728abb39.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol1"
-
-[[assignment]]
-  file = "e83265fe-6c1c-4007-a2d2-49baaf0091ed.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol2"
-
-[[assignment]]
-  file = "d655201c-8306-4ed3-ae84-4df14683e2a2.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol2"
-
-[[assignment]]
-  file = "664a965f-49eb-4c17-bf57-f457e3251f56.jpg"
-  kierunek = "IAD"
-  subject = "AiSD"
-  type = "kol3"
-
-[[assignment]]
-  file = "3e753a38-cfd3-40cf-a7e3-2308765ab3cb.jpg"
-  kierunek = "IAD"
-  subject = "BD"
-  type = "zal"
-
-[[assignment]]
-  file = "03269b61-1eaa-4a43-9426-bf1cbcd04285.jpg"
+  extension = "jpg"
   kierunek = "IAD"
   subject = "BHP"
   type = "zal"
+  uuid = "03269b61-1eaa-4a43-9426-bf1cbcd04285"
 
 [[assignment]]
-  file = "a78285c2-5812-4af8-8b0d-6988016c5d6f.jpg"
+  extension = "pdf"
   kierunek = "IAD"
-  subject = "EGA"
+  subject = "PwR"
   type = "kol1"
+  uuid = "05d56825-0cae-48c1-a1eb-906924560728"
 
 [[assignment]]
-  file = "9f735fa9-47f3-49c5-95b5-4f995982fa6b.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
+  subject = "MN"
+  type = "egz1"
+  uuid = "05f0a0c6-0213-42d0-9e4e-4ce06f2a5da1"
 
 [[assignment]]
-  file = "aca51e9d-b64a-485b-addf-a661a00710b3.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "ba34bc71-efbc-43ff-9c00-d46816c6eaf1.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "bac9fc77-c03c-42e1-a6da-25e3e236f57f.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "4ab8f161-3ff3-4197-9b5f-4efe70672102.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "84b79aed-fac8-4d76-8f7b-d5245c121d5e.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "0bf284ec-01b0-404b-8bd7-0f13aa4fefe7.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "65677cb2-f9db-4241-8c9a-ad6fc121229f.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol1"
-
-[[assignment]]
-  file = "f5292fe4-abe3-414c-9e88-639d98ccd6c7.jpg"
-  kierunek = "IAD"
-  subject = "EGA"
-  type = "kol2"
-
-[[assignment]]
-  file = "4717b5c5-5ddf-4c04-b135-69c8635ddb0d.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
+  subject = "AL"
   type = "egz2"
+  uuid = "0a005f68-180b-4e04-9709-a7131de37ee4"
 
 [[assignment]]
-  file = "deb67d3f-705d-4207-9871-f257a98a01d4.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "egz2"
-
-[[assignment]]
-  file = "8da041da-7475-419a-b2cd-5d1de0f5af02.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "egz2"
-
-[[assignment]]
-  file = "48f218ec-d6ae-4847-8d90-23cc56932f09.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "egz2"
-
-[[assignment]]
-  file = "69ad7a8d-edf0-48b4-90af-2f0c33f15618.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "a39f4f99-034c-4d1e-8407-98721512b896.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "50eb32bc-a3d2-408b-bce7-26027ac9ed3e.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "43a9ce6d-0bc6-474e-b12c-5117a000c0d5.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "5ad15aa5-cb37-4f9f-b7af-dc4de0cde320.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "5e205525-9bbc-4efd-8d1f-236201887e52.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "9bcead19-1f6a-4b89-8194-103d2fd5979c.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "6175edf6-464c-47ca-b3ed-1e19d1c7ddc8.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "c9315949-a985-4838-93fa-3409b18ff2ce.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "1e122dd7-34d2-4625-9df8-3c65b0e2df7d.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol1"
-
-[[assignment]]
-  file = "49b1f8fd-0c0f-497c-b230-70ddd2053e0b.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "536c91cb-b63e-44da-973e-a982b022fe6a.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "524db6ac-80fb-4fea-80ec-9bedde44d2ff.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "ed9d7927-f4f2-4f99-a0eb-89a6842d872c.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "c24f7ec3-b1ed-4ad0-b13c-ca293d5038b7.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "f9aac60f-e180-469d-b713-14c29d60b706.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol2"
-
-[[assignment]]
-  file = "f46d1ade-91bc-4002-893d-88aa55bd3de6.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol3"
-
-[[assignment]]
-  file = "cd3169bb-db95-4d52-ae64-0996f058e464.jpg"
-  kierunek = "IAD"
-  subject = "ELiTM"
-  type = "kol4"
-
-[[assignment]]
-  file = "4908313f-0ada-42e7-80ad-5397dcf4983e.jpg"
-  kierunek = "IAD"
-  subject = "Ekonometria"
-  type = "kol1"
-
-[[assignment]]
-  file = "1ebd7475-e549-4f68-8060-46d4814021e6.jpg"
-  kierunek = "IAD"
-  subject = "Ekonometria"
-  type = "zal1"
-
-[[assignment]]
-  file = "f891b0cc-7be1-477e-a40f-33b776de8015.jpg"
+  extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
   type = "kol1"
+  uuid = "0bd8954d-06be-45ba-991c-b33ae7ac8d08"
 
 [[assignment]]
-  file = "10d4f648-d460-4d7d-9a6f-393e0b601296.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "FE"
+  subject = "EGA"
   type = "kol1"
+  uuid = "0bf284ec-01b0-404b-8bd7-0f13aa4fefe7"
 
 [[assignment]]
-  file = "0bd8954d-06be-45ba-991c-b33ae7ac8d08.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "FE"
+  subject = "AL"
+  type = "egz1"
+  uuid = "0ccf618b-9eae-4992-a117-7c910a473bee"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
   type = "kol1"
+  uuid = "0e38f0de-bdbe-47f6-8e51-fe01e0fddff0"
 
 [[assignment]]
-  file = "ca765550-68b8-49ed-a6cc-555e1228b35a.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "FE"
-  type = "kol2"
+  subject = "RP"
+  type = "kol1"
+  uuid = "0eee9665-7d64-4f2b-8e98-94b67413c3f9"
 
 [[assignment]]
-  file = "cdc4bb1e-007e-4305-b0dc-06e7c5e7516e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "FE"
-  type = "kol2"
-
-[[assignment]]
-  file = "749fafd3-7779-41af-8f68-5a73bb8e871e.jpg"
-  kierunek = "IAD"
-  subject = "FE"
-  type = "spr1"
-
-[[assignment]]
-  file = "d0f9e281-9818-4c4d-a3a8-a0729241ce44.jpg"
-  kierunek = "IAD"
-  subject = "FE"
+  subject = "AL"
   type = "spr2"
+  uuid = "104bb1c3-ef29-4dfd-9d69-cc6637ab8c00"
 
 [[assignment]]
-  file = "18ab6c15-f693-4527-9746-6eb7cda00cb4.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "kol2"
+  uuid = "10874285-7e15-421f-92ca-2c00bf58f15b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "kol1"
+  uuid = "10d4f648-d460-4d7d-9a6f-393e0b601296"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol2"
+  uuid = "116e8cb6-9ee8-4924-bfbb-344c948c2433"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "egz1"
+  uuid = "17fa8859-ebc3-4081-a03c-6cbd995f659c"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
   type = "zal1"
+  uuid = "18ab6c15-f693-4527-9746-6eb7cda00cb4"
 
 [[assignment]]
-  file = "db449d34-08a6-4c47-995e-282c0cd3e83f.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "FE"
-  type = "zal1"
-
-[[assignment]]
-  file = "4ea5fa5d-0f84-4195-bafd-7b2b073bebbc.odp"
-  kierunek = "IAD"
-  subject = "GiS"
-  type = "projekt"
-
-[[assignment]]
-  file = "a65a1847-92da-4a27-9291-a67c71faecdf.jpg"
-  kierunek = "IAD"
-  subject = "GiS"
+  subject = "Psychologia"
   type = "zal"
+  uuid = "1970646a-823a-4deb-9f83-362050a9cecd"
 
 [[assignment]]
-  file = "9959258f-be66-42a4-8a86-231fef4536c4.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "MD"
-  type = "egz0"
+  subject = "RR"
+  type = "kol2"
+  uuid = "1d8c2edf-16c9-444b-988c-9f3af1ec29f0"
 
 [[assignment]]
-  file = "86891afb-3d4e-4988-9636-f8bae1d68c6c.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "MD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "1e122dd7-34d2-4625-9df8-3c65b0e2df7d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
   type = "egz1"
+  uuid = "1e4033fa-9c4c-4c5b-aa8d-99d9f429e4b3"
 
 [[assignment]]
-  file = "63fa8345-f244-4800-aff8-2ddb91c71ac7.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "MD"
+  subject = "Ekonometria"
+  type = "zal1"
+  uuid = "1ebd7475-e549-4f68-8060-46d4814021e6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "20d31680-03e4-48b7-bad6-b2eb05259620"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
   type = "egz2"
+  uuid = "23607a65-c74b-4f17-b854-4e602ad07c4a"
 
 [[assignment]]
-  file = "d66ff4ac-4b37-449b-958e-92d838fe73d5.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "MD"
-  type = "kol1"
-
-[[assignment]]
-  file = "8aff6eab-9fa3-4e29-8f37-ba3834ed5800.jpg"
-  kierunek = "IAD"
-  subject = "MD"
-  type = "kol1"
-
-[[assignment]]
-  file = "022b0b64-307c-402c-a498-de35efe2d321.jpg"
-  kierunek = "IAD"
-  subject = "MD"
-  type = "kol1"
-
-[[assignment]]
-  file = "d97f9084-d410-4dbd-abfa-1ddd6ac52ebe.jpg"
-  kierunek = "IAD"
-  subject = "MD"
+  subject = "AM1"
   type = "kol2"
+  uuid = "24412329-a58a-4f59-a01f-3bec542dbc9a"
 
 [[assignment]]
-  file = "856c4e4c-fe8f-4e45-a259-9172ff706a1b.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "MD"
+  subject = "AM1"
   type = "kol2"
+  uuid = "27c6533b-f28c-4798-aeb6-1896b8dcb142"
 
 [[assignment]]
-  file = "6a33204d-4e20-4877-81a4-a2fe5b0be53c.jpg"
-  kierunek = "IAD"
-  subject = "MD"
-  type = "kol2"
-
-[[assignment]]
-  file = "9d009f65-38b2-4c4d-8a15-08daa9bd8024.jpg"
-  kierunek = "IAD"
-  subject = "MD"
-  type = "kol2"
-
-[[assignment]]
-  file = "69e49c11-b687-4bab-ab4d-fb355eeee12a.jpg"
-  kierunek = "IAD"
-  subject = "MD"
-  type = "kol3"
-
-[[assignment]]
-  file = "bbfb339f-94de-402b-b35e-9b56c3f0304d.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "fab337b1-c6b6-4d76-b30c-a01e3bcf3760.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "a971649d-42e9-483e-90f0-4de4d54788b6.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "860c76c1-84cc-44eb-9ef2-d73e6143ab78.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "49f56559-2511-4229-86aa-a2992a5bb3fb.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "05f0a0c6-0213-42d0-9e4e-4ce06f2a5da1.jpg"
-  kierunek = "IAD"
-  subject = "MN"
-  type = "egz1"
-
-[[assignment]]
-  file = "28e824fc-35c1-434f-9051-1ae0193a03f7.zip"
+  extension = "zip"
   kierunek = "IAD"
   subject = "MPiWD"
   type = "projex"
+  uuid = "28e824fc-35c1-434f-9051-1ae0193a03f7"
 
 [[assignment]]
-  file = "efde9b3f-9e13-4c21-a915-97770dcf74d3.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "PO"
-  type = "kol1"
-
-[[assignment]]
-  file = "d6bf5219-4432-46e5-baed-e3fe352b7470.jpg"
-  kierunek = "IAD"
-  subject = "PO"
-  type = "kol1"
-
-[[assignment]]
-  file = "de659e2a-fb97-454f-bf17-a84dd2e6ca17.jpg"
-  kierunek = "IAD"
-  subject = "PO"
-  type = "zal1"
-
-[[assignment]]
-  file = "a7a28c8c-10f2-42a2-bc9f-b4e56bf8e0e0.jpg"
-  kierunek = "IAD"
-  subject = "PO"
-  type = "zal2"
-
-[[assignment]]
-  file = "f01b6ce8-56df-4f51-a7c6-602ff48be035.jpg"
-  kierunek = "IAD"
-  subject = "Psychologia"
-  type = "zal"
-
-[[assignment]]
-  file = "1970646a-823a-4deb-9f83-362050a9cecd.jpg"
-  kierunek = "IAD"
-  subject = "Psychologia"
-  type = "zal"
-
-[[assignment]]
-  file = "05d56825-0cae-48c1-a1eb-906924560728.pdf"
-  kierunek = "IAD"
-  subject = "PwR"
-  type = "kol1"
-
-[[assignment]]
-  file = "4dd90ac6-0389-4930-af29-10aa0834b0db.jpg"
-  kierunek = "IAD"
-  subject = "PwR"
-  type = "zal2"
-
-[[assignment]]
-  file = "c09341e7-975b-46a2-b032-2d11903b0b6e.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz0"
-
-[[assignment]]
-  file = "cdbcb2bc-8930-46f6-aa4b-4202d7dfafe2.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz1"
-
-[[assignment]]
-  file = "2e08eab5-8e8a-485f-adb4-ff56e3d876c2.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz1"
-
-[[assignment]]
-  file = "a3dc73d4-9c5b-4803-83a0-a04376f7876b.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz1"
-
-[[assignment]]
-  file = "e1de8ea6-1451-44e0-8b80-217ace83f60b.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz1"
-
-[[assignment]]
-  file = "aadc0b39-bd45-48d8-b110-a00812e10b33.jpg"
-  kierunek = "IAD"
-  subject = "RP"
-  type = "egz1"
-
-[[assignment]]
-  file = "ca0ab6c4-9ba6-417f-8466-64a4989cef0b.jpg"
-  kierunek = "IAD"
-  subject = "RP"
+  subject = "AL"
   type = "egz2"
+  uuid = "2af74e09-9042-4d1b-840f-5afaa34e65ee"
 
 [[assignment]]
-  file = "f16361f5-1043-4325-b9c9-55d3ce222d5d.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "egz1"
+  uuid = "2b22eed8-7c1a-44f1-965b-54226133dbe8"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
-  type = "egz2"
+  type = "egz1"
+  uuid = "2e08eab5-8e8a-485f-adb4-ff56e3d876c2"
 
 [[assignment]]
-  file = "337542ef-49f0-4995-aae4-1214362b69dc.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol2"
+  uuid = "2e192c9d-3070-4146-a314-1ccb2537f985"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "2ec287b4-368d-4515-ba98-056ee9d7e183"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol1"
+  uuid = "304710d1-104f-43b6-ad79-b73a0fd7d8bf"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
   type = "egz3"
+  uuid = "337542ef-49f0-4995-aae4-1214362b69dc"
 
 [[assignment]]
-  file = "4e1f08a5-73cf-48a1-b37d-c4c0e13ea40c.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "3523ecd3-04ac-4daa-ba16-313dcb86206e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "egz1"
+  uuid = "37c655d9-edc0-477c-9baf-e1fee3441e95"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol1"
+  uuid = "391f7439-f6e0-4f00-b654-924c50bc99d8"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol1"
+  uuid = "39efa6f6-b822-45ce-8c86-ecda54ca405e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "BD"
+  type = "zal"
+  uuid = "3e753a38-cfd3-40cf-a7e3-2308765ab3cb"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol1"
+  uuid = "405f157d-628d-43a8-bc1b-309cebdc1528"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol1"
+  uuid = "41e677d0-2a63-47de-8af4-b6b33d0284e6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "42adaf92-0bea-431a-88b2-cb35beb61f2f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "43a9ce6d-0bc6-474e-b12c-5117a000c0d5"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol2"
+  uuid = "45066c9d-84ff-4e0d-ab8b-0a5485e245db"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "egz2"
+  uuid = "4717b5c5-5ddf-4c04-b135-69c8635ddb0d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "egz2"
+  uuid = "48f218ec-d6ae-4847-8d90-23cc56932f09"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "Ekonometria"
+  type = "kol1"
+  uuid = "4908313f-0ada-42e7-80ad-5397dcf4983e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "kol2"
+  uuid = "49a4a494-8ebe-4471-affb-a63fe18301aa"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "49b1f8fd-0c0f-497c-b230-70ddd2053e0b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MN"
+  type = "egz1"
+  uuid = "49f56559-2511-4229-86aa-a2992a5bb3fb"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "4ab8f161-3ff3-4197-9b5f-4efe70672102"
+
+[[assignment]]
+  extension = "pdf"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol1"
+  uuid = "4bb03052-6ba6-4122-8d30-44f166307425"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "PwR"
+  type = "zal2"
+  uuid = "4dd90ac6-0389-4930-af29-10aa0834b0db"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
   type = "egz3"
+  uuid = "4e1f08a5-73cf-48a1-b37d-c4c0e13ea40c"
 
 [[assignment]]
-  file = "b020a609-007c-41ba-89d1-24de9f355181.jpg"
+  extension = "odp"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "GiS"
+  type = "projekt"
+  uuid = "4ea5fa5d-0f84-4195-bafd-7b2b073bebbc"
 
 [[assignment]]
-  file = "20d31680-03e4-48b7-bad6-b2eb05259620.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "RR"
+  type = "kol2"
+  uuid = "5091a2c9-7fc2-40b2-9be6-d36229ab85c7"
 
 [[assignment]]
-  file = "3523ecd3-04ac-4daa-ba16-313dcb86206e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
+  subject = "ELiTM"
   type = "kol1"
+  uuid = "50eb32bc-a3d2-408b-bce7-26027ac9ed3e"
 
 [[assignment]]
-  file = "af2edbe5-b007-4b87-a72d-b86725294b03.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "524db6ac-80fb-4fea-80ec-9bedde44d2ff"
 
 [[assignment]]
-  file = "0eee9665-7d64-4f2b-8e98-94b67413c3f9.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "52b4b30c-7eb6-402b-ad7f-f010e340f591"
 
 [[assignment]]
-  file = "c067eeb8-d288-4307-8690-a3227e66ab8e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "536c91cb-b63e-44da-973e-a982b022fe6a"
 
 [[assignment]]
-  file = "64428950-a153-40c3-b102-cd44e213c8fa.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "AWzZ"
+  type = "kol2"
+  uuid = "556cb5e5-6c8b-4648-b87c-21c5f4614db9"
 
 [[assignment]]
-  file = "c9134014-717f-48bd-9802-3b2a3ece42a3.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol1"
+  subject = "AWzZ"
+  type = "egz1"
+  uuid = "59530e44-3b5c-46bd-b0e5-8cd2c6d448a7"
 
 [[assignment]]
-  file = "797c085a-7cf9-4ad7-93ff-4edb53e6d4e8.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "5ad15aa5-cb37-4f9f-b7af-dc4de0cde320"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "5e205525-9bbc-4efd-8d1f-236201887e52"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "5e72419e-c1a3-45ff-bb03-74a298efd06d"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
   type = "kol2"
+  uuid = "5eeb1964-c2e3-47c2-a43c-4d64fea20506"
 
 [[assignment]]
-  file = "d72b80a5-b23b-43e5-b7d3-d6e6dad63e92.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "6175edf6-464c-47ca-b3ed-1e19d1c7ddc8"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "egz2"
+  uuid = "63fa8345-f244-4800-aff8-2ddb91c71ac7"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "64428950-a153-40c3-b102-cd44e213c8fa"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "64fb486b-53eb-444f-8a80-742a63c5a3b9"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "65677cb2-f9db-4241-8c9a-ad6fc121229f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol1"
+  uuid = "660800f9-bf57-4fa8-9a7c-674a71f955e8"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol3"
+  uuid = "664a965f-49eb-4c17-bf57-f457e3251f56"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "egz1"
+  uuid = "6910681f-6461-4766-bd3a-495d3e78e6c3"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "69ad7a8d-edf0-48b4-90af-2f0c33f15618"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol3"
+  uuid = "69e49c11-b687-4bab-ab4d-fb355eeee12a"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol2"
+  uuid = "6a33204d-4e20-4877-81a4-a2fe5b0be53c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol1"
+  uuid = "6c47a80a-1edb-48c6-a105-faafb7520e8c"
+
+[[assignment]]
+  extension = "pdf"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol1"
+  uuid = "6e6e08af-f370-4dc5-bd36-07d665b177d1"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol1"
+  uuid = "711c597d-b0a1-4585-b4a2-468ec5c353bd"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "71c49e21-187e-4c1b-abe9-d6126cb62452"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol2"
+  uuid = "72006f8a-9ddd-4c77-8505-97fd1923cd06"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "spr1"
+  uuid = "749fafd3-7779-41af-8f68-5a73bb8e871e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol1"
+  uuid = "765ba194-feef-43c4-8319-448a0243ad5b"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
   type = "kol2"
+  uuid = "797c085a-7cf9-4ad7-93ff-4edb53e6d4e8"
 
 [[assignment]]
-  file = "5eeb1964-c2e3-47c2-a43c-4d64fea20506.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RP"
-  type = "kol2"
+  subject = "AWzZ"
+  type = "egz1"
+  uuid = "79dbc7e4-49e6-42e9-a3c0-9451991c2a86"
 
 [[assignment]]
-  file = "932ee4b1-15ec-4ab6-bc69-9a5fffcbd696.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "WdP"
+  type = "kol1"
+  uuid = "7bb8250e-9760-42e0-9013-a110936c179b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "egz2"
+  uuid = "7c5987ed-a81d-469c-9af6-0115f2037ca0"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "egz2"
+  uuid = "82a43c8f-12fa-41c7-a5c3-eedc0ddd8a8c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "84b79aed-fac8-4d76-8f7b-d5245c121d5e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol2"
+  uuid = "856c4e4c-fe8f-4e45-a259-9172ff706a1b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MN"
+  type = "egz1"
+  uuid = "860c76c1-84cc-44eb-9ef2-d73e6143ab78"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "egz1"
+  uuid = "86891afb-3d4e-4988-9636-f8bae1d68c6c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol1"
+  uuid = "8aff6eab-9fa3-4e29-8f37-ba3834ed5800"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "egz2"
+  uuid = "8da041da-7475-419a-b2cd-5d1de0f5af02"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol1"
+  uuid = "8ddae9ce-5784-47b3-b03c-0020602f25f0"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol1"
+  uuid = "8e087aad-f2a5-4175-874d-e387a5495259"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "egz2"
+  uuid = "8eeb2f90-37ec-4bf3-9ed7-c03bd3cb92d0"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "kol1"
+  uuid = "9326ec53-2166-4193-8c1f-798a133f4f37"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
   type = "pop1"
+  uuid = "932ee4b1-15ec-4ab6-bc69-9a5fffcbd696"
 
 [[assignment]]
-  file = "8e087aad-f2a5-4175-874d-e387a5495259.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RR"
+  subject = "MD"
+  type = "egz0"
+  uuid = "9959258f-be66-42a4-8a86-231fef4536c4"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "uegz"
+  uuid = "9a118c74-a394-4c73-9dc0-049b27035c8a"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
   type = "kol1"
+  uuid = "9bcead19-1f6a-4b89-8194-103d2fd5979c"
 
 [[assignment]]
-  file = "39efa6f6-b822-45ce-8c86-ecda54ca405e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RR"
-  type = "kol1"
-
-[[assignment]]
-  file = "5091a2c9-7fc2-40b2-9be6-d36229ab85c7.jpg"
-  kierunek = "IAD"
-  subject = "RR"
+  subject = "MD"
   type = "kol2"
+  uuid = "9d009f65-38b2-4c4d-8a15-08daa9bd8024"
 
 [[assignment]]
-  file = "c2ec4c69-d042-4019-b249-369ed988456e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "RR"
-  type = "kol2"
-
-[[assignment]]
-  file = "1d8c2edf-16c9-444b-988c-9f3af1ec29f0.jpg"
-  kierunek = "IAD"
-  subject = "RR"
-  type = "kol2"
-
-[[assignment]]
-  file = "dd615365-9cd0-44f1-8b90-d5505706ae36.jpg"
-  kierunek = "IAD"
-  subject = "RR"
-  type = "kol2"
-
-[[assignment]]
-  file = "f74afe23-be7f-44d9-9033-f5b723167bef.jpg"
-  kierunek = "IAD"
-  subject = "RR"
-  type = "kol2"
-
-[[assignment]]
-  file = "f264ad51-aef8-4186-8719-d31cd6e4640a.jpg"
-  kierunek = "IAD"
-  subject = "RR"
-  type = "kol3"
-
-[[assignment]]
-  file = "41e677d0-2a63-47de-8af4-b6b33d0284e6.jpg"
-  kierunek = "IAD"
-  subject = "SM"
+  subject = "EGA"
   type = "kol1"
+  uuid = "9f735fa9-47f3-49c5-95b5-4f995982fa6b"
 
 [[assignment]]
-  file = "6e6e08af-f370-4dc5-bd36-07d665b177d1.pdf"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "SM"
+  subject = "AL"
+  type = "egz3"
+  uuid = "a0319e49-6a5c-441e-a70b-61eb50e9d2e7"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
   type = "kol1"
+  uuid = "a39f4f99-034c-4d1e-8407-98721512b896"
 
 [[assignment]]
-  file = "cb01ec67-c18f-4e5a-8a74-0d6557b34c8a.pdf"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "SM"
-  type = "kol1"
+  subject = "RP"
+  type = "egz1"
+  uuid = "a3dc73d4-9c5b-4803-83a0-a04376f7876b"
 
 [[assignment]]
-  file = "4bb03052-6ba6-4122-8d30-44f166307425.pdf"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "SM"
-  type = "kol1"
-
-[[assignment]]
-  file = "8ddae9ce-5784-47b3-b03c-0020602f25f0.jpg"
-  kierunek = "IAD"
-  subject = "SM"
-  type = "kol1"
-
-[[assignment]]
-  file = "fa519d80-ae5a-467d-a69f-684b521d1797.pdf"
-  kierunek = "IAD"
-  subject = "SM"
+  subject = "AWzZ"
   type = "kol2"
+  uuid = "a4152c77-6aad-40cd-b13e-c3f7e1ac129c"
 
 [[assignment]]
-  file = "ee315efe-27a8-46e5-aaa2-fc69d4f5e08d.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "GiS"
+  type = "zal"
+  uuid = "a65a1847-92da-4a27-9291-a67c71faecdf"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "a78285c2-5812-4af8-8b0d-6988016c5d6f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "PO"
+  type = "zal2"
+  uuid = "a7a28c8c-10f2-42a2-bc9f-b4e56bf8e0e0"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol1"
+  uuid = "a87e9007-0b9d-4e06-aa2b-3a13f97c01c6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MN"
+  type = "egz1"
+  uuid = "a971649d-42e9-483e-90f0-4de4d54788b6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz1"
+  uuid = "aadc0b39-bd45-48d8-b110-a00812e10b33"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "uegz"
+  uuid = "ac94789d-92cd-4139-bdeb-dd7d86038c76"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "aca51e9d-b64a-485b-addf-a661a00710b3"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz2"
+  uuid = "acfc38ae-746b-4e59-b957-0fed07234f36"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "egz1"
+  uuid = "ae51e715-1238-4e7e-aac3-d4da98d4d356"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "af2edbe5-b007-4b87-a72d-b86725294b03"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "b020a609-007c-41ba-89d1-24de9f355181"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol2"
+  uuid = "b113b0f7-e35f-4623-ba2f-374aa29db255"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "egz1"
+  uuid = "b7ebe724-db35-4e96-94c5-69addd2cba5d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol1"
+  uuid = "ba172342-7970-4410-b406-c7644b408625"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "ba34bc71-efbc-43ff-9c00-d46816c6eaf1"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol1"
+  uuid = "bac9fc77-c03c-42e1-a6da-25e3e236f57f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MN"
+  type = "egz1"
+  uuid = "bbfb339f-94de-402b-b35e-9b56c3f0304d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "bc2c3121-31cd-4844-9a4d-23c53d670c81"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "WdP"
   type = "kol1"
+  uuid = "bc418f1f-261a-4ba1-ab0b-48e0383768f2"
 
 [[assignment]]
-  file = "bc418f1f-261a-4ba1-ab0b-48e0383768f2.jpg"
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "bd731bda-d980-4da6-bd06-e6d2b3c25ac8"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "c067eeb8-d288-4307-8690-a3227e66ab8e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz0"
+  uuid = "c09341e7-975b-46a2-b032-2d11903b0b6e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "c24f7ec3-b1ed-4ad0-b13c-ca293d5038b7"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol2"
+  uuid = "c2ec4c69-d042-4019-b249-369ed988456e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol2"
+  uuid = "c571cf89-5eea-4303-86cf-b1616c5d80a1"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "egz1"
+  uuid = "c5cada24-091b-48ce-800f-df5c3ace671c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "kol1"
+  uuid = "c659951c-74b8-4fcc-8261-53d072599ba8"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "c7a537b8-53ac-4592-8f8f-b1bea6ecc70e"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol1"
+  uuid = "c875f9a2-ed88-4913-901b-cf611816b0e7"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol1"
+  uuid = "c9134014-717f-48bd-9802-3b2a3ece42a3"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol1"
+  uuid = "c9315949-a985-4838-93fa-3409b18ff2ce"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz2"
+  uuid = "ca0ab6c4-9ba6-417f-8466-64a4989cef0b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "kol2"
+  uuid = "ca765550-68b8-49ed-a6cc-555e1228b35a"
+
+[[assignment]]
+  extension = "pdf"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol1"
+  uuid = "cb01ec67-c18f-4e5a-8a74-0d6557b34c8a"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "egz1"
+  uuid = "cb331e44-0052-4f0b-ac67-1f207b32f646"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol4"
+  uuid = "cd3169bb-db95-4d52-ae64-0996f058e464"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "egz2"
+  uuid = "cd8f7d87-dd2f-4eaa-b4c6-1434d1494b21"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz1"
+  uuid = "cdbcb2bc-8930-46f6-aa4b-4202d7dfafe2"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "kol2"
+  uuid = "cdc4bb1e-007e-4305-b0dc-06e7c5e7516e"
+
+[[assignment]]
+  extension = "jpg"
   kierunek = "IAD"
   subject = "WdP"
   type = "kol1"
+  uuid = "cdede612-2599-4c47-9745-28bd0d37566e"
 
 [[assignment]]
-  file = "cdede612-2599-4c47-9745-28bd0d37566e.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "WdP"
-  type = "kol1"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "ce7a93fc-03e9-4bc5-910d-3592b878b841"
 
 [[assignment]]
-  file = "7bb8250e-9760-42e0-9013-a110936c179b.jpg"
+  extension = "jpg"
   kierunek = "IAD"
-  subject = "WdP"
+  subject = "AM1"
   type = "kol1"
+  uuid = "ceb8622f-b512-4d94-91a0-383b273b2546"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "spr2"
+  uuid = "d0f9e281-9818-4c4d-a3a8-a0729241ce44"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol1"
+  uuid = "d435d62f-e94d-4265-9759-c12749114192"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol2"
+  uuid = "d4e88326-1125-466d-9b8f-8704e164f206"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol2"
+  uuid = "d655201c-8306-4ed3-ae84-4df14683e2a2"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol1"
+  uuid = "d66ff4ac-4b37-449b-958e-92d838fe73d5"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "PO"
+  type = "kol1"
+  uuid = "d6bf5219-4432-46e5-baed-e3fe352b7470"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "kol2"
+  uuid = "d72b80a5-b23b-43e5-b7d3-d6e6dad63e92"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MD"
+  type = "kol2"
+  uuid = "d97f9084-d410-4dbd-abfa-1ddd6ac52ebe"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "zal1"
+  uuid = "db449d34-08a6-4c47-995e-282c0cd3e83f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol2"
+  uuid = "dd615365-9cd0-44f1-8b90-d5505706ae36"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM1"
+  type = "kol1"
+  uuid = "de12c334-f75c-46d3-8096-b94834941868"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "PO"
+  type = "zal1"
+  uuid = "de659e2a-fb97-454f-bf17-a84dd2e6ca17"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "egz2"
+  uuid = "deb67d3f-705d-4207-9871-f257a98a01d4"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol1"
+  uuid = "e0d0364f-f8dc-4f6d-ab70-d159728abb39"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz1"
+  uuid = "e1de8ea6-1451-44e0-8b80-217ace83f60b"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol2"
+  uuid = "e83265fe-6c1c-4007-a2d2-49baaf0091ed"
 
 [[assignment]]
   date = 2025-07-04
-  file = "e9441b13-ee27-4586-b785-61ac7bb71776.pdf"
+  extension = "pdf"
   kierunek = "IAD"
   subject = "SM"
   type = "kol3"
+  uuid = "e9441b13-ee27-4586-b785-61ac7bb71776"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "spr1"
+  uuid = "ed8a124a-f3eb-4884-b9e7-e082828ebe56"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "ed9d7927-f4f2-4f99-a0eb-89a6842d872c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "WdP"
+  type = "kol1"
+  uuid = "ee315efe-27a8-46e5-aaa2-fc69d4f5e08d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "PO"
+  type = "kol1"
+  uuid = "efde9b3f-9e13-4c21-a915-97770dcf74d3"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "Psychologia"
+  type = "zal"
+  uuid = "f01b6ce8-56df-4f51-a7c6-602ff48be035"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "kol1"
+  uuid = "f057da38-c0ba-4cfb-9356-b86f7e9955cf"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RP"
+  type = "egz2"
+  uuid = "f16361f5-1043-4325-b9c9-55d3ce222d5d"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol3"
+  uuid = "f264ad51-aef8-4186-8719-d31cd6e4640a"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "uegz"
+  uuid = "f36920fa-46a8-43b6-821e-51fc6818a73f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol3"
+  uuid = "f46d1ade-91bc-4002-893d-88aa55bd3de6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AL"
+  type = "spr1"
+  uuid = "f4d55fb2-7c60-4dc1-870e-deec9e75082c"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "EGA"
+  type = "kol2"
+  uuid = "f5292fe4-abe3-414c-9e88-639d98ccd6c7"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz2"
+  uuid = "f5d071de-e468-4129-ad7e-3884275a98db"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "RR"
+  type = "kol2"
+  uuid = "f74afe23-be7f-44d9-9033-f5b723167bef"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "uegz"
+  uuid = "f7655f11-4490-44bb-9477-7d8497a5d06f"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol1"
+  uuid = "f7ed0436-99ba-401c-aed1-0c8fa9a4e192"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "FE"
+  type = "kol1"
+  uuid = "f891b0cc-7be1-477e-a40f-33b776de8015"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "ELiTM"
+  type = "kol2"
+  uuid = "f9aac60f-e180-469d-b713-14c29d60b706"
+
+[[assignment]]
+  extension = "pdf"
+  kierunek = "IAD"
+  subject = "SM"
+  type = "kol2"
+  uuid = "fa519d80-ae5a-467d-a69f-684b521d1797"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "kol2"
+  uuid = "fa99e303-ff1d-4549-bd62-b6dee45ba014"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "MN"
+  type = "egz1"
+  uuid = "fab337b1-c6b6-4d76-b30c-a01e3bcf3760"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "uegz"
+  uuid = "fb926986-b36c-4450-80c4-0905b604c0a6"
+
+[[assignment]]
+  extension = "jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "kol1"
+  uuid = "fdef990f-0b66-434b-ba3b-1921abafeaa9"
+
+[[subject]]
+  name = "Algebra Liniowa"
+  semester = 1
+  shortname = "AL"
+
+[[subject]]
+  name = "Analiza Matematyczna 1"
+  semester = 1
+  shortname = "AM1"
+
+[[subject]]
+  name = "Analiza Matematyczna 2"
+  semester = 2
+  shortname = "AM2"
+
+[[subject]]
+  name = "Algebra Wsp\\U000000f3\\U00000142czesna z Zastosowaniami"
+  semester = 2
+  shortname = "AWzZ"
+
+[[subject]]
+  name = "Algorytmy i Struktury Danych"
+  semester = 3
+  shortname = "AiSD"
+
+[[subject]]
+  name = "Bazy Danych"
+  semester = 3
+  shortname = "BD"
+
+[[subject]]
+  name = "Bezpiecze\\U00000144stwo i Higiena Pracy"
+  semester = 1
+  shortname = "BHP"
+
+[[subject]]
+  name = "Elementy Geometrii Analitycznej"
+  semester = 1
+  shortname = "EGA"
+
+[[subject]]
+  name = "Elementy Logiki i Teorii Mnogo\\U0000015bci"
+  semester = 1
+  shortname = "ELiTM"
+
+[[subject]]
+  name = "Ekonometria"
+  semester = 4
+  shortname = "Ekonometria"
+
+[[subject]]
+  name = "Funkcje Elementarne"
+  semester = 1
+  shortname = "FE"
+
+[[subject]]
+  name = "Grafy i Sieci"
+  semester = 3
+  shortname = "GiS"
+
+[[subject]]
+  name = "Matematyka Dyskretna"
+  semester = 2
+  shortname = "MD"
+
+[[subject]]
+  name = "Metody Numeryczne"
+  semester = 4
+  shortname = "MN"
+
+[[subject]]
+  name = "Metody Pozyskiwania i Wizualizacji Danych"
+  semester = 3
+  shortname = "MPiWD"
+
+[[subject]]
+  name = "Programowanie Obiektowe"
+  semester = 2
+  shortname = "PO"
+
+[[subject]]
+  name = "Psychologia"
+  semester = 2
+  shortname = "Psychologia"
+
+[[subject]]
+  name = "Programowanie w j\\U00000119zyku R"
+  semester = 2
+  shortname = "PwR"
+
+[[subject]]
+  name = "Rachunek Prawdopodobie\\U00000144stwa"
+  semester = 3
+  shortname = "RP"
+
+[[subject]]
+  name = "R\\U000000f3wnanie R\\U000000f3\\U0000017cniczkowe"
+  semester = 3
+  shortname = "RR"
+
+[[subject]]
+  name = "Statystyka Matematyczna"
+  semester = 4
+  shortname = "SM"
+
+[[subject]]
+  name = "Wst\\U00000119p do Programowania"
+  semester = 1
+  shortname = "WdP"
+
