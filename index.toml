@@ -447,6 +447,14 @@
   uuid = "5ad15aa5-cb37-4f9f-b7af-dc4de0cde320"
 
 [[assignment]]
+  date = 2024-02-07
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "5b39ad93-9532-414e-8eae-0dc646c73c02"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -584,13 +592,6 @@
 [[assignment]]
   extension = "jpg"
   kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-  uuid = "71c49e21-187e-4c1b-abe9-d6126cb62452"
-
-[[assignment]]
-  extension = "jpg"
-  kierunek = "IAD"
   subject = "AM2"
   type = "kol2"
   uuid = "72006f8a-9ddd-4c77-8505-97fd1923cd06"
@@ -636,6 +637,14 @@
   subject = "AM1"
   type = "egz2"
   uuid = "7c5987ed-a81d-469c-9af6-0115f2037ca0"
+
+[[assignment]]
+  date = 2024-02-07
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "7ee63f70-dff6-435e-b715-58cc950efaa1"
 
 [[assignment]]
   extension = "jpg"
