@@ -421,13 +421,6 @@
 [[assignment]]
   extension = "jpg"
   kierunek = "IAD"
-  subject = "AiSD"
-  type = "egz1"
-  uuid = "52b4b30c-7eb6-402b-ad7f-f010e340f591"
-
-[[assignment]]
-  extension = "jpg"
-  kierunek = "IAD"
   subject = "ELiTM"
   type = "kol2"
   uuid = "536c91cb-b63e-44da-973e-a982b022fe6a"
@@ -482,6 +475,14 @@
   uuid = "6175edf6-464c-47ca-b3ed-1e19d1c7ddc8"
 
 [[assignment]]
+  date = 2023-02-17
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz2"
+  uuid = "6364becf-d359-4719-a035-5acf105498c7"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -522,6 +523,14 @@
   subject = "AiSD"
   type = "kol3"
   uuid = "664a965f-49eb-4c17-bf57-f457e3251f56"
+
+[[assignment]]
+  date = 2023-02-10
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "68158ae3-6bcf-40aa-97f3-e64788c1ef25"
 
 [[assignment]]
   extension = "jpg"
@@ -1466,4 +1475,3 @@
   name = "Wst\\U00000119p do Programowania"
   semester = 1
   shortname = "WdP"
-
