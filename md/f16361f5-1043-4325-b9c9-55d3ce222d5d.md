@@ -6,7 +6,6 @@ lang: pl
 # classoption:
 #   - landscape
 #   - twocolumn
-#   - symmetric
 geometry: margin=1.5cm,top=0cm
 header-includes: |
   ```{=latex}
