@@ -3,7 +3,8 @@
   markdown_dir = "./md"
   source_dir = "./src"
   target_dir = "./pdf"
-  template_md_file = "./template.md"
+  template_md_file = "./aux/template.md"
+
 
 [[assignment]]
   extension = "jpg"
