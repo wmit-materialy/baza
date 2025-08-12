@@ -1392,7 +1392,7 @@
   shortname = "AM2"
 
 [[subject]]
-  name = "Algebra Wsp\\U000000f3\\U00000142czesna z Zastosowaniami"
+  name = "Algebra Wsp\U000000f3\U00000142czesna z Zastosowaniami"
   semester = 2
   shortname = "AWzZ"
 
@@ -1407,7 +1407,7 @@
   shortname = "BD"
 
 [[subject]]
-  name = "Bezpiecze\\U00000144stwo i Higiena Pracy"
+  name = "Bezpiecze\U00000144stwo i Higiena Pracy"
   semester = 1
   shortname = "BHP"
 
@@ -1417,7 +1417,7 @@
   shortname = "EGA"
 
 [[subject]]
-  name = "Elementy Logiki i Teorii Mnogo\\U0000015bci"
+  name = "Elementy Logiki i Teorii Mnogo\U0000015bci"
   semester = 1
   shortname = "ELiTM"
 
@@ -1462,17 +1462,17 @@
   shortname = "Psychologia"
 
 [[subject]]
-  name = "Programowanie w j\\U00000119zyku R"
+  name = "Programowanie w j\U00000119zyku R"
   semester = 2
   shortname = "PwR"
 
 [[subject]]
-  name = "Rachunek Prawdopodobie\\U00000144stwa"
+  name = "Rachunek Prawdopodobie\U00000144stwa"
   semester = 3
   shortname = "RP"
 
 [[subject]]
-  name = "R\\U000000f3wnanie R\\U000000f3\\U0000017cniczkowe"
+  name = "R\U000000f3wnanie R\U000000f3\U0000017cniczkowe"
   semester = 3
   shortname = "RR"
 
@@ -1482,6 +1482,6 @@
   shortname = "SM"
 
 [[subject]]
-  name = "Wst\\U00000119p do Programowania"
+  name = "Wst\U00000119p do Programowania"
   semester = 1
   shortname = "WdP"
