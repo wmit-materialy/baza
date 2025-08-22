@@ -1,0 +1,106 @@
+body {
+  font-family: sans-serif;
+  margin: 1rem;
+}
+
+.semester {
+  margin-bottom: 2rem;
+}
+
+.semester h2 {
+  margin-bottom: 0.5rem;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+  text-decoration: none; /* in case you style .card as <a> */
+  color: inherit; /* inherit text color */
+}
+
+.card p {
+  margin-top: 3pt;
+  margin-bottom: 1pt;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.02);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+
+  aspect-ratio: 1;
+  object-fit: contain;
+
+  display: block;
+}
+.card h3 {
+  margin: 0.5rem 0.3rem;
+  font-size: 1.1rem;
+}
+
+/* #f2f2f2; */
+/* #04AA6D; */
+/* #333; */
+/* #ddd; */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  background: #f2f2f2;
+  padding: 0.3rem 1rem;
+  border-radius: 10pt;
+}
+
+.navbar a {
+  color: #333;
+  background: #fff;
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+  margin: 0rem 0.5rem;
+  border-radius: 5pt;
+  transition: background 0.3s;
+}
+
+.navbar a:hover {
+  background: #ddd;
+}
+
+.navbar .logo {
+  margin-right: auto;
+  border-radius: 100rem;
+  padding: 5px;
+}
+
+.navbar .logo:hover {
+  background: #ff8800;
+}
+
+.navbar .logo img {
+  height: 40pt;
+  /* display: block; */
+  vertical-align: middle;
+}
+
+.navbar .logo span {
+  vertical-align: middle;
+  margin: 0 0.5rem;
+  font-weight: bold;
+  color: #222;
+}
