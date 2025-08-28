@@ -2,7 +2,7 @@
 [config]
   markdown_dir = "./md"
   source_dir = "./src"
-  target_dir = "./pdf"
+  pdf_dir = "./pdf"
   template_md_file = "./aux/template.md"
 
 
