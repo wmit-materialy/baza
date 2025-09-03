@@ -182,6 +182,14 @@
   uuid = "1ebd7475-e549-4f68-8060-46d4814021e6"
 
 [[assignment]]
+  date = 2025-01-25
+  extension = ".zip"
+  kierunek = "IAD"
+  subject = "PAI"
+  type = "projekt"
+  uuid = "1f84ee73-f1c5-4d77-91e7-1eec522356eb"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -762,6 +770,13 @@
   uuid = "932ee4b1-15ec-4ab6-bc69-9a5fffcbd696"
 
 [[assignment]]
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "ANP"
+  type = "kol1"
+  uuid = "94b2c148-fa41-4d61-86f9-d7d81dba5c55"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -950,6 +965,13 @@
   subject = "EGA"
   type = "kol1"
   uuid = "ba34bc71-efbc-43ff-9c00-d46816c6eaf1"
+
+[[assignment]]
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "ANP"
+  type = "kol1"
+  uuid = "ba5807d6-711e-4bfa-8bf4-da27e6910e93"
 
 [[assignment]]
   extension = "jpg"
@@ -1481,6 +1503,11 @@
   shortname = "AM2"
 
 [[subject]]
+  name = "Analiza Niepewno\U0000015bci Pomiarowych"
+  semester = 5
+  shortname = "ANP"
+
+[[subject]]
   name = "Algebra Wsp\U000000f3\U00000142czesna z Zastosowaniami"
   semester = 2
   shortname = "AWzZ"
@@ -1554,6 +1581,11 @@
   name = "Metody Pozyskiwania i Wizualizacji Danych"
   semester = 3
   shortname = "MPiWD"
+
+[[subject]]
+  name = "Programowanie Aplikacji Internetowych"
+  semester = 5
+  shortname = "PAI"
 
 [[subject]]
   name = "Programowanie Obiektowe"
