@@ -280,6 +280,14 @@
   uuid = "37c655d9-edc0-477c-9baf-e1fee3441e95"
 
 [[assignment]]
+  date = 2025-01-29
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "kol1"
+  uuid = "38bdbccb-03ad-4f64-9e62-ab69ce81ba12"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -796,6 +804,14 @@
   uuid = "a0319e49-6a5c-441e-a70b-61eb50e9d2e7"
 
 [[assignment]]
+  date = 2025-01-23
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "kol1"
+  uuid = "a1d78643-5e7a-40ab-ab58-768a7d4f1a0a"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -1237,6 +1253,14 @@
   uuid = "e1de8ea6-1451-44e0-8b80-217ace83f60b"
 
 [[assignment]]
+  date = 2025-01-20
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "KSWPI"
+  type = "kol1"
+  uuid = "e245810c-9898-4a04-b3e4-084c81a512be"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1420,6 +1444,14 @@
   uuid = "fb926986-b36c-4450-80c4-0905b604c0a6"
 
 [[assignment]]
+  desc = "Oryginalna nazwa: Zestawy-na-3.docx"
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "KSWPI"
+  type = "zal"
+  uuid = "fdd0ed05-cfad-4fa4-a13a-b3823f35cd56"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1498,6 +1530,11 @@
   shortname = "GiS"
 
 [[subject]]
+  name = "Komputerowe Systemy Wspomagania Pracy In\U0000017cyniera"
+  semester = 5
+  shortname = "KSWPI"
+
+[[subject]]
   name = "Matematyka Dyskretna"
   semester = 2
   shortname = "MD"
@@ -1548,6 +1585,11 @@
   name = "Statystyka Matematyczna"
   semester = 4
   shortname = "SM"
+
+[[subject]]
+  name = "Statystyczne Modele Liniowe i Nieliniowe"
+  semester = 5
+  shortname = "SMLiN"
 
 [[subject]]
   name = "Wielowymiarowa Analiza Danych"
