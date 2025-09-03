@@ -1,10 +1,9 @@
 
 [config]
   markdown_dir = "./md"
-  source_dir = "./src"
   pdf_dir = "./pdf"
+  source_dir = "./src"
   template_md_file = "./aux/template.md"
-
 
 [[assignment]]
   extension = "jpg"
@@ -119,6 +118,13 @@
   uuid = "116e8cb6-9ee8-4924-bfbb-344c948c2433"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "zal"
+  uuid = "16df039a-dc4f-4dc3-bc76-4298dec1ad73"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -138,6 +144,14 @@
   subject = "Psychologia"
   type = "zal"
   uuid = "1970646a-823a-4deb-9f83-362050a9cecd"
+
+[[assignment]]
+  desc = "Zdj\U00000119cie uci\U00000119te, chyba jest jeszcze zadanie"
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "19e1d581-0997-4079-b421-35f21e6377a3"
 
 [[assignment]]
   extension = "jpg"
@@ -728,7 +742,7 @@
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
-  type = "pop1"
+  type = "kol3"
   uuid = "932ee4b1-15ec-4ab6-bc69-9a5fffcbd696"
 
 [[assignment]]
@@ -793,6 +807,13 @@
   subject = "AWzZ"
   type = "kol2"
   uuid = "a4152c77-6aad-40cd-b13e-c3f7e1ac129c"
+
+[[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "a5a5ab40-f306-4ec6-9d1a-d2e2c3b6db9c"
 
 [[assignment]]
   extension = "jpg"
@@ -912,6 +933,13 @@
   subject = "EGA"
   type = "kol1"
   uuid = "bac9fc77-c03c-42e1-a6da-25e3e236f57f"
+
+[[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "bb090614-7411-4833-8a1f-c1095b6b9ff2"
 
 [[assignment]]
   extension = "jpg"
@@ -1237,6 +1265,13 @@
   uuid = "ee315efe-27a8-46e5-aaa2-fc69d4f5e08d"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "zal"
+  uuid = "eecc98ba-0df9-4ca4-b384-95b3420231b0"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "PO"
@@ -1321,6 +1356,13 @@
   uuid = "f7655f11-4490-44bb-9477-7d8497a5d06f"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "f78a2db8-6e85-41c8-a2f8-9b7767df9f72"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1376,6 +1418,13 @@
   type = "kol1"
   uuid = "fdef990f-0b66-434b-ba3b-1921abafeaa9"
 
+[[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "ffbf1b91-612f-4dbf-b371-2ca73a5b9cf3"
+
 [[subject]]
   name = "Algebra Liniowa"
   semester = 1
@@ -1398,6 +1447,7 @@
 
 [[subject]]
   name = "Algorytmy i Struktury Danych"
+  notatki = "./notatki/sem3/AiSD.md"
   semester = 3
   shortname = "AiSD"
 
@@ -1413,16 +1463,19 @@
 
 [[subject]]
   name = "Elementy Geometrii Analitycznej"
+  notatki = "./notatki/sem1/EGA.md"
   semester = 1
   shortname = "EGA"
 
 [[subject]]
   name = "Elementy Logiki i Teorii Mnogo\U0000015bci"
+  notatki = "./notatki/sem1/ELiTM.md"
   semester = 1
   shortname = "ELiTM"
 
 [[subject]]
   name = "Ekonometria"
+  notatki = "./notatki/sem4/Ekonometria.md"
   semester = 4
   shortname = "Ekonometria"
 
@@ -1443,8 +1496,14 @@
 
 [[subject]]
   name = "Metody Numeryczne"
+  notatki = "./notatki/sem4/MN.md"
   semester = 4
   shortname = "MN"
+
+[[subject]]
+  name = "Metody Optymalizacji"
+  semester = 5
+  shortname = "MO"
 
 [[subject]]
   name = "Metody Pozyskiwania i Wizualizacji Danych"
@@ -1468,6 +1527,7 @@
 
 [[subject]]
   name = "Rachunek Prawdopodobie\U00000144stwa"
+  notatki = "./notatki/sem3/RP.md"
   semester = 3
   shortname = "RP"
 
