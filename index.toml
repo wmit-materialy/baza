@@ -520,6 +520,14 @@
   uuid = "64428950-a153-40c3-b102-cd44e213c8fa"
 
 [[assignment]]
+  date = 2025-01-24
+  extension = ".zip"
+  kierunek = "IAD"
+  subject = "WAD"
+  type = "kol1"
+  uuid = "647f4ef7-41fe-46f0-b7e3-325b32d2a262"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -1540,6 +1548,11 @@
   name = "Statystyka Matematyczna"
   semester = 4
   shortname = "SM"
+
+[[subject]]
+  name = "Wielowymiarowa Analiza Danych"
+  semester = 5
+  shortname = "WAD"
 
 [[subject]]
   name = "Wst\U00000119p do Programowania"
