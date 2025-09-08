@@ -686,6 +686,13 @@
   uuid = "7ee63f70-dff6-435e-b715-58cc950efaa1"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "Ekonometria"
+  type = "kol1"
+  uuid = "80d722fa-972a-4cb0-bf31-ae5ac0683c39"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -817,6 +824,14 @@
   subject = "AL"
   type = "egz3"
   uuid = "a0319e49-6a5c-441e-a70b-61eb50e9d2e7"
+
+[[assignment]]
+  date = 2024-05-08
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "Ekonometria"
+  type = "kol1"
+  uuid = "a1adf8a6-3dd7-4fb2-a70b-bf5ce0410b68"
 
 [[assignment]]
   date = 2025-01-23
