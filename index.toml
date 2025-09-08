@@ -303,6 +303,13 @@
   uuid = "391f7439-f6e0-4f00-b654-924c50bc99d8"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "BD"
+  type = "kol1"
+  uuid = "394d8c20-2f12-442e-af46-9b8a92d9c2a3"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -1339,6 +1346,13 @@
   subject = "MO"
   type = "zal"
   uuid = "eecc98ba-0df9-4ca4-b384-95b3420231b0"
+
+[[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "BD"
+  type = "kol1"
+  uuid = "ef914765-3565-41e9-9d35-431427523067"
 
 [[assignment]]
   extension = "jpg"
