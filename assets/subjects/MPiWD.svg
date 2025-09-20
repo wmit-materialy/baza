@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 125 125"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="MPiWD.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.53172522"
+     inkscape:cx="334.75937"
+     inkscape:cy="432.55424"
+     inkscape:window-width="1536"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g4"
+     transform="matrix(1.1504537,0,0,1.1504537,4.9773175,4.9773175)">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       fill="#f29c1f"
+       d="M 80,100 56,0 H 44 L 20,100 H 33 L 50,26.086 67,100 Z"
+       id="path1" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       fill="#ecf0f1"
+       d="M 0,10 H 100 V 72 H 0 Z"
+       id="path2" />
+    <path
+       clip-rule="evenodd"
+       stroke="#e64c3c"
+       stroke-width="4"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       d="M 10,61 23.024,47.976 29,53 45.988,36.988 55,46 70,31 75,36 90,21"
+       fill="none"
+       id="path3" />
+    <path
+       d="M 73.28,72 H 60.56 l 0.46,2 h 12.74 z m -47.04,2 h 12.74 l 0.46,-2 H 26.72 Z"
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       fill="#e57e25"
+       id="path4" />
+  </g>
+</svg>
