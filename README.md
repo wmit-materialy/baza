@@ -1,51 +1,52 @@
-## Baza IAD
+# Baza IAD
 
-### Semestr 1
+Repozytorium zawiera kolekcję kolosów, egzaminów (w tym ustnych), zaliczeń, przykładowych projektów itd. Wcześniej baza IAD była przechowywana na Dysku Google ([link](https://drive.google.com/drive/folders/1azc9t81HO-203bSIWgbalRk5beAc348I)) w formie przeważnie nieuporządkowanej.
 
-| Przedmiot                       | Zdjęcia               | Markdown                | PDFy               |
-| ---                             | ---                   | ---                     | ---                |
-| Analiza Matematyczna 1          | [link](./source/AM1/) | [link](./markdown/AM1/) | [link](./pdf/AM1/) |
-| Algebra Liniowa                 | [link](./source/AL/)  | [link](./markdown/AL/)  | [link](./pdf/AL/)  |
-| Wstęp do Programowania          | [link](./source/WdP/) | [link](./markdown/WdP/) | [link](./pdf/WdP/) |
-| Funkcje Elementarne             | [link](./source/FE/)  | [link](./markdown/FE/)  | [link](./pdf/FE/)  |
-| Elementy Geometrii Analitycznej | [link](./source/EGA/) | [link](./markdown/EGA/) | [link](./pdf/EGA/) |
-| BHP                             | [link](./source/BHP/) | [link](./markdown/BHP/) | [link](./pdf/BHP/) |
+## Struktura
 
-### Semestr 2
+Każda praca to pojedynczy plik z przypisanym [UUIDv4](https://en.wikipedia.org/wiki/Universally_unique_identifier#Version_4_(random)). Indeksem takich plików jest `index.toml`, w którym tablica `assignment` składa się z obiektów opisujących poszczególne prace (kolosy, egzaminy itd.).
 
-WIP
+Przykładowy wpis w indeksie:
 
-<!--
-| Przedmiot                            | Zdjęcia | Markdown | PDFy |
-| ---                                  | ---     | ---      | ---  |
-| Analiza Matematyczna 2               | [link](./source/AM2/) |
-| Algebra Współczesna z Zastosowaniami |
-| Matematyka Dyskretna                 |
-| Matematyka Dyskretna                 |
--->
+``` toml
+[[assignment]]
+  date = 2025-01-25     # Data
+  extension = ".zip"    # Rozszerzenie pliku źródłowego
+  kierunek = "IAD"      # Kierunek
+  subject = "PAI"       # Przedmiot
+  type = "projekt"      # Typ wpisu
+  uuid = "1f84ee73-f1c5-4d77-91e7-1eec522356eb"
+```
 
-### Semestr 3
+Katalog `md/` zawiera przepisaną ze zdjęć treść prac — w niektórych przypadkach do odczytania źródeł trzeba było zaangażować trzy osoby ze względu na złą jakość zdjęć.
 
-| Przedmiot                                 | Zdjęcia                 | Markdown                  | PDFy                 |
-| ---                                       | ---                     | ---                       | ---                  |
-| Rachunek Różniczkowy                      | [link](./source/RR/)    | [link](./markdown/RR/)    | [link](./pdf/RR/)    |
-| Algorytmy i Struktury Danych              | [link](./source/AiSD/)  | [link](./markdown/AiSD/)  | [link](./pdf/AiSD/)  |
-| Bazy Danych                               | [link](./source/BD/)    | [link](./markdown/BD/)    | [link](./pdf/BD/)    |
-| Grafy i Sieci                             | [link](./source/GiS/)   | [link](./markdown/GiS/)   | [link](./pdf/GiS/)   |
-| Metody Pozyskiwania i Wizualizacji Danych | [link](./source/MPiWD/) | [link](./markdown/MPiWD/) | [link](./pdf/MPiWD/) |
+Oprócz tablicy `assignment`, indeks zawiera też tablicę `subject`.
 
-### Semestr 4
+Przykładowy element:
 
-| Przedmiot               | Zdjęcia                       | Markdown                        | PDFy                       |
-| ---                     | ---                           | ---                             | ---                        |
-| Ekonometria             | [link](./source/Ekonometria/) | [link](./markdown/Ekonometria/) | [link](./pdf/Ekonometria/) |
-| Metody Numeryczne       | [link](./source/MN/)          | [link](./markdown/MN/)          | [link](./pdf/MN/)          |
-| Statystyka Matematyczna | [link](./source/SM/)          | [link](./markdown/SM/)          | [link](./pdf/SM/)          |
+``` toml
+[[subject]]
+  name = "Algorytmy i Struktury Danych"
+  notatki = "./notatki/sem3/AiSD.md"
+  semester = 3
+  shortname = "AiSD"
+```
 
-### Semestr 5
+Indeks służy do dołączenia metadanych do poszczególnych prac i jest w formacie TOML ze względu na czytelność w dowolnym edytorze tekstu. Pliki źródłowe przechowywane są jako osobne pliki, co umożliwia śledzenie zmian za pomocą Git. Gdyby cała baza była w jednym pliku `.sqlite`, każda zmiana wymagałaby ponownego wgrania całej bazy — Git nie różnicuje efektywnie plików binarnych. Dlatego warto trzymać wiele małych plików.
 
-WIP
+### Skompilowane PDFy
 
-### Semestr 6
+(zobacz np. [ten kolos z rachunku prawdopodobieństwa](./pdf/20d31680-03e4-48b7-bad6-b2eb05259620.pdf))
 
-WIP
+Do każdego pliku markdown z katalogu `md/` odpowiada dokładnie jeden plik PDF w katalogu `pdf/`. Skompilowane PDFy zawierają (przez `embedfile` w LaTeX) co najmniej dwa załączniki: plik źródłowy (np. `.jpg`) oraz odpowiadający mu plik `.md`. Dzięki temu można:
+
+- zweryfikować poprawność przepisanych treści,
+- skopiować formuły LaTeX-owe.
+
+Wadą jest zwiększony rozmiar pliku PDF — zawiera on oryginalne zdjęcie i plik `.md`.
+
+Aby otworzyć załączone pliki z PDF, użyj czytnika obsługującego załączniki, np. [Okular](https://okular.kde.org/) (PC) lub [Firefox](https://firefox.com) (PC).
+
+## Contributing
+
+Aby dodać nowy wpis, otwórz nowe issue i dołącz zdjęcia prac, które chcesz dodać. Można dołączyć kilka plików jednocześnie.
