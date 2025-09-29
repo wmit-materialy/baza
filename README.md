@@ -36,7 +36,7 @@ Indeks służy do dołączenia metadanych do poszczególnych prac i jest w forma
 
 ### Skompilowane PDFy
 
-(zobacz np. [ten kolos z rachunku prawdopodobieństwa](./pdf/20d31680-03e4-48b7-bad6-b2eb05259620.pdf))
+(zobacz np. [ten kolos z rachunku prawdopodobieństwa](https://iad-baza.crii.xyz/assignment/20d31680-03e4-48b7-bad6-b2eb05259620))
 
 Do każdego pliku markdown z katalogu `md/` odpowiada dokładnie jeden plik PDF w katalogu `pdf/`. Skompilowane PDFy zawierają (przez `embedfile` w LaTeX) co najmniej dwa załączniki: plik źródłowy (np. `.jpg`) oraz odpowiadający mu plik `.md`. Dzięki temu można:
 
