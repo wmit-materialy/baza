@@ -118,6 +118,14 @@
   uuid = "116e8cb6-9ee8-4924-bfbb-344c948c2433"
 
 [[assignment]]
+  date = 2025-07-02
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AM2"
+  type = "egz2"
+  uuid = "16100832-259d-4af4-8bc2-190e2003df72"
+
+[[assignment]]
   extension = ".jpg"
   kierunek = "IAD"
   subject = "MO"
@@ -286,6 +294,14 @@
   subject = "AL"
   type = "egz1"
   uuid = "37c655d9-edc0-477c-9baf-e1fee3441e95"
+
+[[assignment]]
+  date = 2025-06-27
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "egz2"
+  uuid = "380f6b3d-8eea-4042-9f0a-a5ddbf25221c"
 
 [[assignment]]
   date = 2025-01-29
@@ -471,6 +487,13 @@
   uuid = "556cb5e5-6c8b-4648-b87c-21c5f4614db9"
 
 [[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "GK"
+  type = "kol1"
+  uuid = "582986e6-11fd-4084-ab4b-7f7d91352a83"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -519,6 +542,13 @@
   subject = "ELiTM"
   type = "kol1"
   uuid = "6175edf6-464c-47ca-b3ed-1e19d1c7ddc8"
+
+[[assignment]]
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AWzZ"
+  type = "kol1"
+  uuid = "621ada46-5ed3-49e3-8693-8f2c31cbd6cc"
 
 [[assignment]]
   date = 2023-02-17
@@ -1008,6 +1038,14 @@
   subject = "MO"
   type = "kol1"
   uuid = "bb090614-7411-4833-8a1f-c1095b6b9ff2"
+
+[[assignment]]
+  date = 2023-06-12
+  extension = ".jpg"
+  kierunek = "Matematyka"
+  subject = "AWzZ"
+  type = "kol2"
+  uuid = "bb319941-2f82-4b27-82c8-aeddc0c01424"
 
 [[assignment]]
   extension = "jpg"
@@ -1579,6 +1617,11 @@
   name = "Funkcje Elementarne"
   semester = 1
   shortname = "FE"
+
+[[subject]]
+  name = "Grafika Komputerowa"
+  semester = 2
+  shortname = "GK"
 
 [[subject]]
   name = "Grafy i Sieci"
