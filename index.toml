@@ -935,6 +935,15 @@
   uuid = "a87e9007-0b9d-4e06-aa2b-3a13f97c01c6"
 
 [[assignment]]
+  date = 2025-12-16
+  desc = "Nie orygina\U00000142, a przepisane tre\U0000015bci"
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "a940c8d7-ec73-4c31-8fc0-171aed03a549"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
