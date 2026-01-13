@@ -169,6 +169,14 @@
   uuid = "1d8c2edf-16c9-444b-988c-9f3af1ec29f0"
 
 [[assignment]]
+  date = 2026-01-13
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "ANP"
+  type = "kol1"
+  uuid = "1dbe1b0f-1071-4603-a5d6-a1f52e42582f"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -1244,6 +1252,14 @@
   subject = "FE"
   type = "spr2"
   uuid = "d0f9e281-9818-4c4d-a3a8-a0729241ce44"
+
+[[assignment]]
+  date = 2026-01-12
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "ANP"
+  type = "kol1"
+  uuid = "d1ff09a0-ab73-47dd-8e4d-392a1ee45ac3"
 
 [[assignment]]
   extension = "jpg"
