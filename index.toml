@@ -808,6 +808,15 @@
   uuid = "8eeb2f90-37ec-4bf3-9ed7-c03bd3cb92d0"
 
 [[assignment]]
+  date = 2026-01-14
+  desc = "Kolokwium dla GL03"
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "KSWPI"
+  type = "kol1"
+  uuid = "92e831d3-f410-46c4-ae45-0da2ba88cf72"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
