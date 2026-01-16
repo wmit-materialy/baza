@@ -1560,6 +1560,14 @@
   uuid = "fab337b1-c6b6-4d76-b30c-a01e3bcf3760"
 
 [[assignment]]
+  date = 2026-01-16
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "WAD"
+  type = "kol1"
+  uuid = "fb362129-8105-43aa-8679-bf662d4e6fc0"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
