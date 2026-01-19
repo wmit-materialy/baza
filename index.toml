@@ -341,6 +341,14 @@
   uuid = "39efa6f6-b822-45ce-8c86-ecda54ca405e"
 
 [[assignment]]
+  date = 2025-12-17
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "3a190e51-2ebd-49a9-ad90-cc976561d18d"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "BD"
@@ -1022,6 +1030,14 @@
   subject = "AM1"
   type = "kol2"
   uuid = "b113b0f7-e35f-4623-ba2f-374aa29db255"
+
+[[assignment]]
+  date = 2025-12-17
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "kol1"
+  uuid = "b5772507-2d13-482d-a69c-38ab9ccd80fe"
 
 [[assignment]]
   extension = "jpg"
