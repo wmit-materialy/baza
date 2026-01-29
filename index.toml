@@ -1132,6 +1132,15 @@
   uuid = "c09341e7-975b-46a2-b032-2d11903b0b6e"
 
 [[assignment]]
+  date = 2026-01-26
+  desc = "Zadania ze wszystkich kolokwi\U000000f3w w tym terminie po\U00000142\U00000105czonych razem"
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "kol1"
+  uuid = "c0e02f4a-b3e4-4ffa-8a97-61087ce6a2cf"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
