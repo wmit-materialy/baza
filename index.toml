@@ -1734,6 +1734,14 @@
   uuid = "f9aac60f-e180-469d-b713-14c29d60b706"
 
 [[assignment]]
+  date = 2026-02-04
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "WAD"
+  type = "egz1"
+  uuid = "f9ead3e1-2eb7-43d6-aef3-ba1e8b14eb4b"
+
+[[assignment]]
   date = 2023-06-27
   extension = "pdf"
   kierunek = "IAD"
