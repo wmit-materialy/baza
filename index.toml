@@ -6,6 +6,7 @@
   template_md_file = "./aux/template.md"
 
 [[assignment]]
+  date = 2021-06-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -13,6 +14,7 @@
   uuid = "0060c8d7-2fc8-4d76-a920-4f48bde6e18d"
 
 [[assignment]]
+  date = 2023-01-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -20,6 +22,7 @@
   uuid = "00def093-affd-4e62-91ee-80a02e321dc9"
 
 [[assignment]]
+  date = 2025-04-11
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -34,6 +37,7 @@
   uuid = "03269b61-1eaa-4a43-9426-bf1cbcd04285"
 
 [[assignment]]
+  date = 2025-06-16
   extension = "pdf"
   kierunek = "IAD"
   subject = "PwR"
@@ -41,6 +45,7 @@
   uuid = "05d56825-0cae-48c1-a1eb-906924560728"
 
 [[assignment]]
+  date = 2025-06-25
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -55,6 +60,7 @@
   uuid = "0a005f68-180b-4e04-9709-a7131de37ee4"
 
 [[assignment]]
+  date = 2024-11-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
@@ -62,6 +68,7 @@
   uuid = "0bd8954d-06be-45ba-991c-b33ae7ac8d08"
 
 [[assignment]]
+  date = 2021-02-08
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -76,6 +83,7 @@
   uuid = "0ccf618b-9eae-4992-a117-7c910a473bee"
 
 [[assignment]]
+  date = 2025-04-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -97,6 +105,7 @@
   uuid = "104bb1c3-ef29-4dfd-9d69-cc6637ab8c00"
 
 [[assignment]]
+  date = 2025-01-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -104,6 +113,7 @@
   uuid = "10874285-7e15-421f-92ca-2c00bf58f15b"
 
 [[assignment]]
+  date = 2024-11-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
@@ -111,6 +121,7 @@
   uuid = "10d4f648-d460-4d7d-9a6f-393e0b601296"
 
 [[assignment]]
+  date = 2024-01-19
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -133,6 +144,7 @@
   uuid = "16df039a-dc4f-4dc3-bc76-4298dec1ad73"
 
 [[assignment]]
+  date = 2025-06-20
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -162,6 +174,7 @@
   uuid = "19e1d581-0997-4079-b421-35f21e6377a3"
 
 [[assignment]]
+  date = 2025-01-22
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -184,6 +197,7 @@
   uuid = "1e122dd7-34d2-4625-9df8-3c65b0e2df7d"
 
 [[assignment]]
+  date = 2023-02-09
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -191,6 +205,7 @@
   uuid = "1e4033fa-9c4c-4c5b-aa8d-99d9f429e4b3"
 
 [[assignment]]
+  date = 2025-06-11
   extension = "jpg"
   kierunek = "IAD"
   subject = "Ekonometria"
@@ -206,6 +221,7 @@
   uuid = "1f84ee73-f1c5-4d77-91e7-1eec522356eb"
 
 [[assignment]]
+  date = 2022-12-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -213,6 +229,7 @@
   uuid = "20d31680-03e4-48b7-bad6-b2eb05259620"
 
 [[assignment]]
+  date = 2024-02-09
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -220,6 +237,7 @@
   uuid = "23607a65-c74b-4f17-b854-4e602ad07c4a"
 
 [[assignment]]
+  date = 2025-01-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -227,6 +245,7 @@
   uuid = "24412329-a58a-4f59-a01f-3bec542dbc9a"
 
 [[assignment]]
+  date = 2024-01-19
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -241,6 +260,7 @@
   uuid = "28e824fc-35c1-434f-9051-1ae0193a03f7"
 
 [[assignment]]
+  date = 2023-02-17
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -248,6 +268,7 @@
   uuid = "2af74e09-9042-4d1b-840f-5afaa34e65ee"
 
 [[assignment]]
+  date = 2024-02-07
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -276,6 +297,7 @@
   uuid = "2ec287b4-368d-4515-ba98-056ee9d7e183"
 
 [[assignment]]
+  date = 2022-11-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -297,6 +319,7 @@
   uuid = "3523ecd3-04ac-4daa-ba16-313dcb86206e"
 
 [[assignment]]
+  date = 2024-02-02
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -320,6 +343,7 @@
   uuid = "38bdbccb-03ad-4f64-9e62-ab69ce81ba12"
 
 [[assignment]]
+  date = 2022-11-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -334,6 +358,7 @@
   uuid = "394d8c20-2f12-442e-af46-9b8a92d9c2a3"
 
 [[assignment]]
+  date = 2023-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -349,6 +374,7 @@
   uuid = "3a190e51-2ebd-49a9-ad90-cc976561d18d"
 
 [[assignment]]
+  date = 2025-01-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "BD"
@@ -356,6 +382,7 @@
   uuid = "3e753a38-cfd3-40cf-a7e3-2308765ab3cb"
 
 [[assignment]]
+  date = 2023-04-17
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -363,6 +390,7 @@
   uuid = "405f157d-628d-43a8-bc1b-309cebdc1528"
 
 [[assignment]]
+  date = 2023-06-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "SM"
@@ -370,6 +398,7 @@
   uuid = "41e677d0-2a63-47de-8af4-b6b33d0284e6"
 
 [[assignment]]
+  date = 2025-01-31
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -377,6 +406,7 @@
   uuid = "42adaf92-0bea-431a-88b2-cb35beb61f2f"
 
 [[assignment]]
+  date = 2023-12-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -384,6 +414,7 @@
   uuid = "43a9ce6d-0bc6-474e-b12c-5117a000c0d5"
 
 [[assignment]]
+  date = 2023-01-17
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -391,6 +422,7 @@
   uuid = "45066c9d-84ff-4e0d-ab8b-0a5485e245db"
 
 [[assignment]]
+  date = 2023-02-07
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -398,6 +430,7 @@
   uuid = "4717b5c5-5ddf-4c04-b135-69c8635ddb0d"
 
 [[assignment]]
+  date = 2022-02-14
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -405,6 +438,7 @@
   uuid = "48f218ec-d6ae-4847-8d90-23cc56932f09"
 
 [[assignment]]
+  date = 2025-06-05
   extension = "jpg"
   kierunek = "IAD"
   subject = "Ekonometria"
@@ -419,6 +453,7 @@
   uuid = "49a4a494-8ebe-4471-affb-a63fe18301aa"
 
 [[assignment]]
+  date = 2024-01-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -426,6 +461,7 @@
   uuid = "49b1f8fd-0c0f-497c-b230-70ddd2053e0b"
 
 [[assignment]]
+  date = 2025-06-25
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -433,6 +469,7 @@
   uuid = "49f56559-2511-4229-86aa-a2992a5bb3fb"
 
 [[assignment]]
+  date = 2023-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -440,6 +477,7 @@
   uuid = "4ab8f161-3ff3-4197-9b5f-4efe70672102"
 
 [[assignment]]
+  date = 2025-06-18
   extension = "pdf"
   kierunek = "IAD"
   subject = "SM"
@@ -447,6 +485,7 @@
   uuid = "4bb03052-6ba6-4122-8d30-44f166307425"
 
 [[assignment]]
+  date = 2023-06-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "PwR"
@@ -454,6 +493,7 @@
   uuid = "4dd90ac6-0389-4930-af29-10aa0834b0db"
 
 [[assignment]]
+  date = 2025-02-14
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -468,6 +508,7 @@
   uuid = "4ea5fa5d-0f84-4195-bafd-7b2b073bebbc"
 
 [[assignment]]
+  date = 2023-02-02
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -475,6 +516,7 @@
   uuid = "5091a2c9-7fc2-40b2-9be6-d36229ab85c7"
 
 [[assignment]]
+  date = 2022-11-18
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -482,6 +524,7 @@
   uuid = "50eb32bc-a3d2-408b-bce7-26027ac9ed3e"
 
 [[assignment]]
+  date = 2023-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -496,6 +539,7 @@
   uuid = "536c91cb-b63e-44da-973e-a982b022fe6a"
 
 [[assignment]]
+  date = 2023-06-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -510,6 +554,7 @@
   uuid = "582986e6-11fd-4084-ab4b-7f7d91352a83"
 
 [[assignment]]
+  date = 2023-06-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -517,6 +562,7 @@
   uuid = "59530e44-3b5c-46bd-b0e5-8cd2c6d448a7"
 
 [[assignment]]
+  date = 2023-12-04
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -532,6 +578,7 @@
   uuid = "5b39ad93-9532-414e-8eae-0dc646c73c02"
 
 [[assignment]]
+  date = 2022-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -546,6 +593,7 @@
   uuid = "5e72419e-c1a3-45ff-bb03-74a298efd06d"
 
 [[assignment]]
+  date = 2025-01-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -553,6 +601,7 @@
   uuid = "5eeb1964-c2e3-47c2-a43c-4d64fea20506"
 
 [[assignment]]
+  date = 2022-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -575,6 +624,7 @@
   uuid = "6364becf-d359-4719-a035-5acf105498c7"
 
 [[assignment]]
+  date = 2023-06-19
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -597,6 +647,7 @@
   uuid = "647f4ef7-41fe-46f0-b7e3-325b32d2a262"
 
 [[assignment]]
+  date = 2024-12-06
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -604,6 +655,7 @@
   uuid = "64fb486b-53eb-444f-8a80-742a63c5a3b9"
 
 [[assignment]]
+  date = 2023-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -611,6 +663,7 @@
   uuid = "65677cb2-f9db-4241-8c9a-ad6fc121229f"
 
 [[assignment]]
+  date = 2023-06-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -618,6 +671,7 @@
   uuid = "660800f9-bf57-4fa8-9a7c-674a71f955e8"
 
 [[assignment]]
+  date = 2023-02-03
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -640,6 +694,7 @@
   uuid = "6910681f-6461-4766-bd3a-495d3e78e6c3"
 
 [[assignment]]
+  date = 2021-11-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -647,6 +702,7 @@
   uuid = "69ad7a8d-edf0-48b4-90af-2f0c33f15618"
 
 [[assignment]]
+  date = 2025-06-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -654,6 +710,7 @@
   uuid = "69e49c11-b687-4bab-ab4d-fb355eeee12a"
 
 [[assignment]]
+  date = 2022-06-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -668,6 +725,7 @@
   uuid = "6c47a80a-1edb-48c6-a105-faafb7520e8c"
 
 [[assignment]]
+  date = 2025-06-18
   extension = "pdf"
   kierunek = "IAD"
   subject = "SM"
@@ -675,6 +733,7 @@
   uuid = "6e6e08af-f370-4dc5-bd36-07d665b177d1"
 
 [[assignment]]
+  date = 2024-11-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -696,6 +755,7 @@
   uuid = "749fafd3-7779-41af-8f68-5a73bb8e871e"
 
 [[assignment]]
+  date = 2025-04-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -703,6 +763,7 @@
   uuid = "765ba194-feef-43c4-8319-448a0243ad5b"
 
 [[assignment]]
+  date = 2022-01-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -710,6 +771,7 @@
   uuid = "797c085a-7cf9-4ad7-93ff-4edb53e6d4e8"
 
 [[assignment]]
+  date = 2023-06-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -717,6 +779,7 @@
   uuid = "79dbc7e4-49e6-42e9-a3c0-9451991c2a86"
 
 [[assignment]]
+  date = 2023-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "WdP"
@@ -724,6 +787,7 @@
   uuid = "7bb8250e-9760-42e0-9013-a110936c179b"
 
 [[assignment]]
+  date = 2023-02-16
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -746,6 +810,7 @@
   uuid = "80d722fa-972a-4cb0-bf31-ae5ac0683c39"
 
 [[assignment]]
+  date = 2024-02-14
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -753,6 +818,7 @@
   uuid = "82a43c8f-12fa-41c7-a5c3-eedc0ddd8a8c"
 
 [[assignment]]
+  date = 2023-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -760,6 +826,7 @@
   uuid = "84b79aed-fac8-4d76-8f7b-d5245c121d5e"
 
 [[assignment]]
+  date = 2022-06-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -767,6 +834,7 @@
   uuid = "856c4e4c-fe8f-4e45-a259-9172ff706a1b"
 
 [[assignment]]
+  date = 2024-06-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -774,6 +842,7 @@
   uuid = "860c76c1-84cc-44eb-9ef2-d73e6143ab78"
 
 [[assignment]]
+  date = 2024-06-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -781,6 +850,7 @@
   uuid = "86891afb-3d4e-4988-9636-f8bae1d68c6c"
 
 [[assignment]]
+  date = 2023-04-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -788,6 +858,7 @@
   uuid = "8aff6eab-9fa3-4e29-8f37-ba3834ed5800"
 
 [[assignment]]
+  date = 2024-02-05
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -795,6 +866,7 @@
   uuid = "8da041da-7475-419a-b2cd-5d1de0f5af02"
 
 [[assignment]]
+  date = 2023-06-12
   extension = "jpg"
   kierunek = "IAD"
   subject = "SM"
@@ -802,6 +874,7 @@
   uuid = "8ddae9ce-5784-47b3-b03c-0020602f25f0"
 
 [[assignment]]
+  date = 2022-11-29
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -809,6 +882,7 @@
   uuid = "8e087aad-f2a5-4175-874d-e387a5495259"
 
 [[assignment]]
+  date = 2023-07-07
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -832,6 +906,7 @@
   uuid = "9326ec53-2166-4193-8c1f-798a133f4f37"
 
 [[assignment]]
+  date = 2024-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -846,6 +921,7 @@
   uuid = "94b2c148-fa41-4d61-86f9-d7d81dba5c55"
 
 [[assignment]]
+  date = 2023-06-19
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -860,6 +936,7 @@
   uuid = "9a118c74-a394-4c73-9dc0-049b27035c8a"
 
 [[assignment]]
+  date = 2022-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -867,6 +944,7 @@
   uuid = "9bcead19-1f6a-4b89-8194-103d2fd5979c"
 
 [[assignment]]
+  date = 2025-06-06
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -874,6 +952,7 @@
   uuid = "9d009f65-38b2-4c4d-8a15-08daa9bd8024"
 
 [[assignment]]
+  date = 2025-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -904,6 +983,7 @@
   uuid = "a1d78643-5e7a-40ab-ab58-768a7d4f1a0a"
 
 [[assignment]]
+  date = 2022-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -932,6 +1012,7 @@
   uuid = "a5a5ab40-f306-4ec6-9d1a-d2e2c3b6db9c"
 
 [[assignment]]
+  date = 2024-01-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "GiS"
@@ -939,6 +1020,7 @@
   uuid = "a65a1847-92da-4a27-9291-a67c71faecdf"
 
 [[assignment]]
+  date = 2025-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -953,6 +1035,7 @@
   uuid = "a7a28c8c-10f2-42a2-bc9f-b4e56bf8e0e0"
 
 [[assignment]]
+  date = 2022-11-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -969,6 +1052,7 @@
   uuid = "a940c8d7-ec73-4c31-8fc0-171aed03a549"
 
 [[assignment]]
+  date = 2024-06-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -976,6 +1060,7 @@
   uuid = "a971649d-42e9-483e-90f0-4de4d54788b6"
 
 [[assignment]]
+  date = 2025-02-03
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -990,6 +1075,7 @@
   uuid = "ac94789d-92cd-4139-bdeb-dd7d86038c76"
 
 [[assignment]]
+  date = 2025-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -997,6 +1083,7 @@
   uuid = "aca51e9d-b64a-485b-addf-a661a00710b3"
 
 [[assignment]]
+  date = 2024-02-11
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1004,6 +1091,7 @@
   uuid = "acfc38ae-746b-4e59-b957-0fed07234f36"
 
 [[assignment]]
+  date = 2022-02-11
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -1025,6 +1113,7 @@
   uuid = "b020a609-007c-41ba-89d1-24de9f355181"
 
 [[assignment]]
+  date = 2023-01-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -1040,6 +1129,7 @@
   uuid = "b5772507-2d13-482d-a69c-38ab9ccd80fe"
 
 [[assignment]]
+  date = 2025-06-23
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1047,6 +1137,7 @@
   uuid = "b7ebe724-db35-4e96-94c5-69addd2cba5d"
 
 [[assignment]]
+  date = 2024-11-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1054,6 +1145,7 @@
   uuid = "ba172342-7970-4410-b406-c7644b408625"
 
 [[assignment]]
+  date = 2024-01-31
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -1068,6 +1160,7 @@
   uuid = "ba5807d6-711e-4bfa-8bf4-da27e6910e93"
 
 [[assignment]]
+  date = 2023-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -1090,6 +1183,7 @@
   uuid = "bb319941-2f82-4b27-82c8-aeddc0c01424"
 
 [[assignment]]
+  date = 2023-06-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -1097,6 +1191,7 @@
   uuid = "bbfb339f-94de-402b-b35e-9b56c3f0304d"
 
 [[assignment]]
+  date = 2024-02-07
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1104,6 +1199,7 @@
   uuid = "bc2c3121-31cd-4844-9a4d-23c53d670c81"
 
 [[assignment]]
+  date = 2022-12-05
   extension = "jpg"
   kierunek = "IAD"
   subject = "WdP"
@@ -1125,6 +1221,7 @@
   uuid = "c067eeb8-d288-4307-8690-a3227e66ab8e"
 
 [[assignment]]
+  date = 2025-01-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -1148,6 +1245,7 @@
   uuid = "c24f7ec3-b1ed-4ad0-b13c-ca293d5038b7"
 
 [[assignment]]
+  date = 2024-01-29
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -1155,6 +1253,7 @@
   uuid = "c2ec4c69-d042-4019-b249-369ed988456e"
 
 [[assignment]]
+  date = 2023-06-16
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1162,6 +1261,7 @@
   uuid = "c571cf89-5eea-4303-86cf-b1616c5d80a1"
 
 [[assignment]]
+  date = 2023-02-06
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -1169,6 +1269,7 @@
   uuid = "c5cada24-091b-48ce-800f-df5c3ace671c"
 
 [[assignment]]
+  date = 2023-04-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -1183,6 +1284,7 @@
   uuid = "c7a537b8-53ac-4592-8f8f-b1bea6ecc70e"
 
 [[assignment]]
+  date = 2023-12-15
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -1197,6 +1299,7 @@
   uuid = "c9134014-717f-48bd-9802-3b2a3ece42a3"
 
 [[assignment]]
+  date = 2021-11-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -1211,6 +1314,7 @@
   uuid = "ca0ab6c4-9ba6-417f-8466-64a4989cef0b"
 
 [[assignment]]
+  date = 2023-01-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
@@ -1218,6 +1322,7 @@
   uuid = "ca765550-68b8-49ed-a6cc-555e1228b35a"
 
 [[assignment]]
+  date = 2025-06-18
   extension = "pdf"
   kierunek = "IAD"
   subject = "SM"
@@ -1225,6 +1330,7 @@
   uuid = "cb01ec67-c18f-4e5a-8a74-0d6557b34c8a"
 
 [[assignment]]
+  date = 2023-06-26
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1239,6 +1345,7 @@
   uuid = "cd3169bb-db95-4d52-ae64-0996f058e464"
 
 [[assignment]]
+  date = 2023-02-17
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -1253,6 +1360,7 @@
   uuid = "cdbcb2bc-8930-46f6-aa4b-4202d7dfafe2"
 
 [[assignment]]
+  date = 2024-01-16
   extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
@@ -1260,6 +1368,7 @@
   uuid = "cdc4bb1e-007e-4305-b0dc-06e7c5e7516e"
 
 [[assignment]]
+  date = 2023-02-10
   extension = "jpg"
   kierunek = "IAD"
   subject = "WdP"
@@ -1267,6 +1376,7 @@
   uuid = "cdede612-2599-4c47-9745-28bd0d37566e"
 
 [[assignment]]
+  date = 2025-01-31
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1274,6 +1384,7 @@
   uuid = "ce7a93fc-03e9-4bc5-910d-3592b878b841"
 
 [[assignment]]
+  date = 2024-11-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -1296,6 +1407,7 @@
   uuid = "d1ff09a0-ab73-47dd-8e4d-392a1ee45ac3"
 
 [[assignment]]
+  date = 2024-11-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1310,6 +1422,7 @@
   uuid = "d4e88326-1125-466d-9b8f-8704e164f206"
 
 [[assignment]]
+  date = 2025-01-22
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1317,6 +1430,7 @@
   uuid = "d655201c-8306-4ed3-ae84-4df14683e2a2"
 
 [[assignment]]
+  date = 2023-05-09
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -1338,6 +1452,7 @@
   uuid = "d72b80a5-b23b-43e5-b7d3-d6e6dad63e92"
 
 [[assignment]]
+  date = 2023-06-06
   extension = "jpg"
   kierunek = "IAD"
   subject = "MD"
@@ -1352,6 +1467,7 @@
   uuid = "db449d34-08a6-4c47-995e-282c0cd3e83f"
 
 [[assignment]]
+  date = 2025-01-22
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -1359,6 +1475,7 @@
   uuid = "dd615365-9cd0-44f1-8b90-d5505706ae36"
 
 [[assignment]]
+  date = 2023-11-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM1"
@@ -1373,6 +1490,7 @@
   uuid = "de659e2a-fb97-454f-bf17-a84dd2e6ca17"
 
 [[assignment]]
+  date = 2024-02-12
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -1380,6 +1498,7 @@
   uuid = "deb67d3f-705d-4207-9871-f257a98a01d4"
 
 [[assignment]]
+  date = 2022-12-21
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1402,6 +1521,7 @@
   uuid = "e245810c-9898-4a04-b3e4-084c81a512be"
 
 [[assignment]]
+  date = 2023-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1417,6 +1537,7 @@
   uuid = "e9441b13-ee27-4586-b785-61ac7bb71776"
 
 [[assignment]]
+  date = 2023-04-24
   extension = "jpg"
   kierunek = "IAD"
   subject = "AWzZ"
@@ -1424,6 +1545,7 @@
   uuid = "ed8a124a-f3eb-4884-b9e7-e082828ebe56"
 
 [[assignment]]
+  date = 2023-01-30
   extension = "jpg"
   kierunek = "IAD"
   subject = "ELiTM"
@@ -1473,6 +1595,7 @@
   uuid = "f057da38-c0ba-4cfb-9356-b86f7e9955cf"
 
 [[assignment]]
+  date = 2025-02-10
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -1480,6 +1603,7 @@
   uuid = "f16361f5-1043-4325-b9c9-55d3ce222d5d"
 
 [[assignment]]
+  date = 2024-02-01
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -1501,6 +1625,7 @@
   uuid = "f46d1ade-91bc-4002-893d-88aa55bd3de6"
 
 [[assignment]]
+  date = 2024-12-06
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -1508,6 +1633,7 @@
   uuid = "f4d55fb2-7c60-4dc1-870e-deec9e75082c"
 
 [[assignment]]
+  date = 2023-02-10
   extension = "jpg"
   kierunek = "IAD"
   subject = "EGA"
@@ -1515,6 +1641,7 @@
   uuid = "f5292fe4-abe3-414c-9e88-639d98ccd6c7"
 
 [[assignment]]
+  date = 2024-02-14
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
@@ -1522,6 +1649,7 @@
   uuid = "f5d071de-e468-4129-ad7e-3884275a98db"
 
 [[assignment]]
+  date = 2025-01-22
   extension = "jpg"
   kierunek = "IAD"
   subject = "RR"
@@ -1543,6 +1671,7 @@
   uuid = "f78a2db8-6e85-41c8-a2f8-9b7767df9f72"
 
 [[assignment]]
+  date = 2023-04-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1550,6 +1679,7 @@
   uuid = "f7ed0436-99ba-401c-aed1-0c8fa9a4e192"
 
 [[assignment]]
+  date = 2023-12-05
   extension = "jpg"
   kierunek = "IAD"
   subject = "FE"
@@ -1564,6 +1694,7 @@
   uuid = "f9aac60f-e180-469d-b713-14c29d60b706"
 
 [[assignment]]
+  date = 2023-06-27
   extension = "pdf"
   kierunek = "IAD"
   subject = "SM"
@@ -1571,6 +1702,7 @@
   uuid = "fa519d80-ae5a-467d-a69f-684b521d1797"
 
 [[assignment]]
+  date = 2025-06-11
   extension = "jpg"
   kierunek = "IAD"
   subject = "AM2"
@@ -1578,6 +1710,7 @@
   uuid = "fa99e303-ff1d-4549-bd62-b6dee45ba014"
 
 [[assignment]]
+  date = 2023-06-28
   extension = "jpg"
   kierunek = "IAD"
   subject = "MN"
@@ -1608,6 +1741,7 @@
   uuid = "fdd0ed05-cfad-4fa4-a13a-b3823f35cd56"
 
 [[assignment]]
+  date = 2024-11-27
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
