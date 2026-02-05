@@ -305,6 +305,14 @@
   uuid = "304710d1-104f-43b6-ad79-b73a0fd7d8bf"
 
 [[assignment]]
+  date = 2024-02-11
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz2"
+  uuid = "3369f2d0-fa6c-4203-9da1-a126c7ebdeaa"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "RP"
@@ -428,6 +436,14 @@
   subject = "ELiTM"
   type = "egz2"
   uuid = "4717b5c5-5ddf-4c04-b135-69c8635ddb0d"
+
+[[assignment]]
+  date = 2022-02-16
+  extension = ".png"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz2"
+  uuid = "4879d18e-88ad-4d7f-a32f-7318f0d1752e"
 
 [[assignment]]
   date = 2022-02-14
@@ -763,6 +779,14 @@
   uuid = "765ba194-feef-43c4-8319-448a0243ad5b"
 
 [[assignment]]
+  date = 2022-02-09
+  extension = ".png"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz1"
+  uuid = "76d652db-99f3-41d6-871a-fb029f3a2d1a"
+
+[[assignment]]
   date = 2022-01-26
   extension = "jpg"
   kierunek = "IAD"
@@ -981,6 +1005,14 @@
   subject = "SMLiN"
   type = "kol1"
   uuid = "a1d78643-5e7a-40ab-ab58-768a7d4f1a0a"
+
+[[assignment]]
+  date = 2022-02-23
+  extension = ".png"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz3"
+  uuid = "a2f05487-6428-4cc8-af37-0452878cd8e6"
 
 [[assignment]]
   date = 2022-11-28
@@ -1527,6 +1559,14 @@
   subject = "AiSD"
   type = "kol2"
   uuid = "e83265fe-6c1c-4007-a2d2-49baaf0091ed"
+
+[[assignment]]
+  date = 2024-02-14
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "AiSD"
+  type = "egz3"
+  uuid = "e91d61ab-ab83-4550-99cc-d17863040c60"
 
 [[assignment]]
   date = 2025-07-04
