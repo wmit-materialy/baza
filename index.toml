@@ -1645,7 +1645,7 @@
   extension = "jpg"
   kierunek = "IAD"
   subject = "AiSD"
-  type = "egz2"
+  type = "egz3"
   uuid = "f5d071de-e468-4129-ad7e-3884275a98db"
 
 [[assignment]]
