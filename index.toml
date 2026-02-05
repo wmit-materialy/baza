@@ -1115,6 +1115,14 @@
   uuid = "aca51e9d-b64a-485b-addf-a661a00710b3"
 
 [[assignment]]
+  date = 2026-01-22
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "PDSWWW"
+  type = "zal"
+  uuid = "acca8d4c-9ebd-4b62-9eb7-47375002b7f5"
+
+[[assignment]]
   date = 2024-02-11
   extension = "jpg"
   kierunek = "IAD"
@@ -1916,6 +1924,11 @@
   name = "Programowanie Aplikacji Internetowych"
   semester = 5
   shortname = "PAI"
+
+[[subject]]
+  name = "Projektowanie Dynamicznych Stron WWW"
+  semester = 5
+  shortname = "PDSWWW"
 
 [[subject]]
   name = "Programowanie Obiektowe"
