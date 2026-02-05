@@ -1200,6 +1200,15 @@
   uuid = "bac9fc77-c03c-42e1-a6da-25e3e236f57f"
 
 [[assignment]]
+  date = 2026-01-29
+  desc = "14/20 pyta\U00000144 testowych, nie zawiera cz\U00000119\U0000015bci *praktycznej* i pyta\U00000144 pomocniczych."
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "MO"
+  type = "zal"
+  uuid = "bacba8a5-45a0-45da-a538-c6fb910ba388"
+
+[[assignment]]
   extension = ".jpg"
   kierunek = "IAD"
   subject = "MO"
