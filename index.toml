@@ -221,6 +221,14 @@
   uuid = "1f84ee73-f1c5-4d77-91e7-1eec522356eb"
 
 [[assignment]]
+  date = 2026-02-06
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "egz1"
+  uuid = "20c26845-4fdd-48d8-bef5-6ca66281f872"
+
+[[assignment]]
   date = 2022-12-15
   extension = "jpg"
   kierunek = "IAD"
