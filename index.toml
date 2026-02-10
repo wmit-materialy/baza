@@ -76,6 +76,14 @@
   uuid = "0bf284ec-01b0-404b-8bd7-0f13aa4fefe7"
 
 [[assignment]]
+  date = 2026-02-10
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "zal2"
+  uuid = "0c90c1a7-e178-4a81-a3eb-87baf4e33d3d"
+
+[[assignment]]
   extension = "jpg"
   kierunek = "IAD"
   subject = "AL"
@@ -1515,6 +1523,14 @@
   subject = "MD"
   type = "kol2"
   uuid = "d97f9084-d410-4dbd-abfa-1ddd6ac52ebe"
+
+[[assignment]]
+  date = 2026-02-10
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "SMLiN"
+  type = "zal2"
+  uuid = "db25c54d-834e-4732-a468-bfa8d9d5452c"
 
 [[assignment]]
   extension = "jpg"
