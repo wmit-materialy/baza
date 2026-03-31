@@ -787,6 +787,14 @@
   uuid = "749fafd3-7779-41af-8f68-5a73bb8e871e"
 
 [[assignment]]
+  date = 2026-03-30
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "zal"
+  uuid = "75d4f2f4-0be1-457e-8d1d-7255c12c3cfb"
+
+[[assignment]]
   date = 2025-04-15
   extension = "jpg"
   kierunek = "IAD"
@@ -1943,6 +1951,11 @@
   name = "Metody Pozyskiwania i Wizualizacji Danych"
   semester = 3
   shortname = "MPiWD"
+
+[[subject]]
+  name = "Metody Walidacji Modeli Statystycznych"
+  semester = 6
+  shortname = "MWMS"
 
 [[subject]]
   name = "Programowanie Aplikacji Internetowych"
