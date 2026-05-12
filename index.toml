@@ -137,6 +137,14 @@
   uuid = "116e8cb6-9ee8-4924-bfbb-344c948c2433"
 
 [[assignment]]
+  date = 2025-06-04
+  extension = ".pdf"
+  kierunek = "Matematyka"
+  subject = "PE"
+  type = "kol1"
+  uuid = "13624585-a1b6-479e-b60e-b9cc4c8882b3"
+
+[[assignment]]
   date = 2025-07-02
   extension = ".jpg"
   kierunek = "IAD"
@@ -1966,6 +1974,11 @@
   name = "Projektowanie Dynamicznych Stron WWW"
   semester = 5
   shortname = "PDSWWW"
+
+[[subject]]
+  name = "Planowanie Eksperymentu"
+  semester = 6
+  shortname = "PE"
 
 [[subject]]
   name = "Programowanie Obiektowe"
