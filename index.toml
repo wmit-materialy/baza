@@ -1209,6 +1209,14 @@
   uuid = "b7ebe724-db35-4e96-94c5-69addd2cba5d"
 
 [[assignment]]
+  date = 2026-05-20
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "TS"
+  type = "kol1"
+  uuid = "b9d3b59d-24f2-444f-bb9f-e97cebfdfebb"
+
+[[assignment]]
   date = 2024-11-27
   extension = "jpg"
   kierunek = "IAD"
@@ -2015,6 +2023,11 @@
   name = "Statystyczne Modele Liniowe i Nieliniowe"
   semester = 5
   shortname = "SMLiN"
+
+[[subject]]
+  name = "Teoria Sygna\U00000142\U000000f3w"
+  semester = 6
+  shortname = "TS"
 
 [[subject]]
   name = "Wielowymiarowa Analiza Danych"
