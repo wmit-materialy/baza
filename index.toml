@@ -1350,6 +1350,14 @@
   uuid = "c2ec4c69-d042-4019-b249-369ed988456e"
 
 [[assignment]]
+  date = 2026-05-21
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "TS"
+  type = "kol1"
+  uuid = "c2f20b25-74c2-4dd4-9085-23d26354d169"
+
+[[assignment]]
   date = 2023-06-16
   extension = "jpg"
   kierunek = "IAD"
