@@ -1265,6 +1265,14 @@
   uuid = "bacba8a5-45a0-45da-a538-c6fb910ba388"
 
 [[assignment]]
+  date = 2026-04-21
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "ED"
+  type = "egz1"
+  uuid = "bae21bff-0e91-474a-b695-38b5fa002cb4"
+
+[[assignment]]
   extension = ".jpg"
   kierunek = "IAD"
   subject = "MO"
@@ -1924,6 +1932,11 @@
   name = "Bezpiecze\U00000144stwo i Higiena Pracy"
   semester = 1
   shortname = "BHP"
+
+[[subject]]
+  name = "Eksploracja Danych"
+  semester = 6
+  shortname = "ED"
 
 [[subject]]
   name = "Elementy Geometrii Analitycznej"
