@@ -765,6 +765,14 @@
   uuid = "6c47a80a-1edb-48c6-a105-faafb7520e8c"
 
 [[assignment]]
+  date = 2026-05-31
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol1"
+  uuid = "6d0f47a0-74f6-42a4-a670-5d1fb1d734d2"
+
+[[assignment]]
   date = 2025-06-18
   extension = "pdf"
   kierunek = "IAD"
@@ -1565,6 +1573,15 @@
   uuid = "d72b80a5-b23b-43e5-b7d3-d6e6dad63e92"
 
 [[assignment]]
+  date = 2026-05-13
+  desc = "Kolokwium przyk\U00000142adowe"
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol1"
+  uuid = "d8823dd6-e5d1-4741-a0ca-d915bd437c94"
+
+[[assignment]]
   date = 2023-06-06
   extension = "jpg"
   kierunek = "IAD"
@@ -1884,6 +1901,14 @@
   subject = "AiSD"
   type = "kol1"
   uuid = "fdef990f-0b66-434b-ba3b-1921abafeaa9"
+
+[[assignment]]
+  date = 2026-05-31
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol1"
+  uuid = "feffa5f8-327a-4393-bda3-b5101d2d24ce"
 
 [[assignment]]
   extension = ".jpg"
