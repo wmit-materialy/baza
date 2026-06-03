@@ -656,6 +656,14 @@
   uuid = "621ada46-5ed3-49e3-8693-8f2c31cbd6cc"
 
 [[assignment]]
+  date = 2026-06-03
+  extension = ".pdf"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol1"
+  uuid = "6326043c-caad-4d10-ac7e-3e03ceb024b0"
+
+[[assignment]]
   date = 2023-02-17
   extension = ".jpg"
   kierunek = "IAD"
