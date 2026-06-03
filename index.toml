@@ -1008,14 +1008,6 @@
   uuid = "9a118c74-a394-4c73-9dc0-049b27035c8a"
 
 [[assignment]]
-  desc = "Kolokwium przyk\U00000142adowe"
-  extension = ".html"
-  kierunek = "IAD"
-  subject = "MWMS"
-  type = "kol1"
-  uuid = "9a1afead-795b-42e3-91bb-4f1afa2581e7"
-
-[[assignment]]
   date = 2022-11-28
   extension = "jpg"
   kierunek = "IAD"
