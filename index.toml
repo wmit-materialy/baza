@@ -1757,6 +1757,14 @@
   uuid = "f057da38-c0ba-4cfb-9356-b86f7e9955cf"
 
 [[assignment]]
+  date = 2026-06-09
+  extension = ".png"
+  kierunek = "IAD"
+  subject = "HD"
+  type = "zal"
+  uuid = "f0949cb8-adcf-4312-80f3-a8c6069463c3"
+
+[[assignment]]
   date = 2025-02-10
   extension = "jpg"
   kierunek = "IAD"
@@ -2011,6 +2019,11 @@
   name = "Grafy i Sieci"
   semester = 3
   shortname = "GiS"
+
+[[subject]]
+  name = "Hurtownie Danych"
+  semester = 6
+  shortname = "HD"
 
 [[subject]]
   name = "Komputerowe Systemy Wspomagania Pracy In\U0000017cyniera"
