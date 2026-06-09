@@ -37,6 +37,14 @@
   uuid = "03269b61-1eaa-4a43-9426-bf1cbcd04285"
 
 [[assignment]]
+  date = 2026-06-09
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol2"
+  uuid = "03e3cc1b-d089-4226-b3cb-cf4d345e7da9"
+
+[[assignment]]
   date = 2025-06-16
   extension = "pdf"
   kierunek = "IAD"
@@ -1185,6 +1193,14 @@
   subject = "AM1"
   type = "egz1"
   uuid = "ae51e715-1238-4e7e-aac3-d4da98d4d356"
+
+[[assignment]]
+  date = 2026-06-09
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "MWMS"
+  type = "kol2"
+  uuid = "aed733dc-4b39-41fb-9190-59a4c685ee63"
 
 [[assignment]]
   extension = "jpg"
