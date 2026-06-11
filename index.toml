@@ -414,6 +414,14 @@
   uuid = "3a190e51-2ebd-49a9-ad90-cc976561d18d"
 
 [[assignment]]
+  date = 2026-06-11
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "PE"
+  type = "kol1"
+  uuid = "3b99460f-e180-4729-8673-2cb16d41487f"
+
+[[assignment]]
   date = 2025-01-21
   extension = "jpg"
   kierunek = "IAD"
