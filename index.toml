@@ -774,6 +774,14 @@
   uuid = "69e49c11-b687-4bab-ab4d-fb355eeee12a"
 
 [[assignment]]
+  date = 2026-06-15
+  extension = ".html"
+  kierunek = "IAD"
+  subject = "PE"
+  type = "kol1"
+  uuid = "69ff7d74-3ba0-4c60-9633-a61df70d6e13"
+
+[[assignment]]
   date = 2022-06-15
   extension = "jpg"
   kierunek = "IAD"
@@ -1658,6 +1666,14 @@
   subject = "ELiTM"
   type = "egz2"
   uuid = "deb67d3f-705d-4207-9871-f257a98a01d4"
+
+[[assignment]]
+  date = 2026-06-15
+  extension = ".jpg"
+  kierunek = "IAD"
+  subject = "PE"
+  type = "kol1"
+  uuid = "dfc1e4d9-7e66-43c0-8fe3-620c4f9c2f95"
 
 [[assignment]]
   date = 2022-12-21
